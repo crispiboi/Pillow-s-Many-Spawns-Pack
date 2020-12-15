@@ -138,8 +138,8 @@ function SpawnPoints()
 {worldX = 39, worldY = 22, posX = 263, posY = 279}, --  seahorse coffee
 {worldX = 39, worldY = 22, posX = 267, posY = 277}, --  seahorse coffee, kitchen 
 {worldX = 39, worldY = 22, posX = 275, posY = 285, posZ = 1}, --  offices 1, second floor
-{worldX = 39, worldY = 22, posX = 259, posY = 287}, --  town hall first floor
-{worldX = 39, worldY = 22, posX = 259, posY = 287, posZ = 1}, --  mayor's office
+{worldX = 39, worldY = 22, posX = 250, posY = 287}, -- West Point,  town hall first floor ID:127
+{worldX = 39, worldY = 22, posX = 250, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
 {worldX = 39, worldY = 22, posX = 206, posY = 286}, --  mendy's
 {worldX = 39, worldY = 22, posX = 196, posY = 279}, --  mendy's, kitchen 
 {worldX = 39, worldY = 22, posX = 194, posY = 288}, --  bookstore

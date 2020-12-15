@@ -90,7 +90,7 @@ policeofficer = {
 {worldX = 39, worldY = 23, posX = 242, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
 {worldX = 39, worldY = 23, posX = 200, posY = 48}, -- West Point,  police station ID:108
 {worldX = 39, worldY = 23, posX = 128, posY = 12}, -- West Point, variety store  ID:119
-{worldX = 39, worldY = 22, posX = 259, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
+{worldX = 39, worldY = 22, posX = 250, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
 {worldX = 39, worldY = 22, posX = 194, posY = 288}, -- West Point,  bookstore ID:131
 {worldX = 39, worldY = 23, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
 {worldX = 39, worldY = 22, posX = 273, posY = 213}, -- West Point,  spiffos ID:140

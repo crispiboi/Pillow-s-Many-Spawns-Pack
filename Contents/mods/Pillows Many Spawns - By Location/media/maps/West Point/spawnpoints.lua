@@ -37,8 +37,8 @@ function SpawnPoints()
 {worldX = 39, worldY = 22, posX = 263, posY = 279}, -- West Point,  seahorse coffee ID:124
 {worldX = 39, worldY = 22, posX = 267, posY = 277}, -- West Point,  seahorse coffee, kitchen  ID:125
 {worldX = 39, worldY = 22, posX = 275, posY = 285, posZ = 1}, -- West Point,  offices 1, second floor ID:126
-{worldX = 39, worldY = 22, posX = 259, posY = 287}, -- West Point,  town hall first floor ID:127
-{worldX = 39, worldY = 22, posX = 259, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
+{worldX = 39, worldY = 22, posX = 250, posY = 287}, -- West Point,  town hall first floor ID:127
+{worldX = 39, worldY = 22, posX = 250, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
 {worldX = 39, worldY = 22, posX = 206, posY = 286}, -- West Point,  mendy's ID:129
 {worldX = 39, worldY = 22, posX = 196, posY = 279}, -- West Point,  mendy's, kitchen  ID:130
 {worldX = 39, worldY = 22, posX = 194, posY = 288}, -- West Point,  bookstore ID:131

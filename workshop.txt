@@ -1,6 +1,6 @@
 version=1
 id=1911132112
-title=Pillow's Many Spawns Project
+title=Pillow's Random Spawns
 description=There are 901 hand picked spawn points across the entire map.Many of these spots are businesses or interesting locations across the map. As a design decision, I excluded the military base as a spawn area.
 description=
 description=Here is the database of all locations possible :
