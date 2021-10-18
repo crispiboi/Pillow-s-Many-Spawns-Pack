@@ -9,7 +9,7 @@ unemployed = {
 {worldX = 46, worldY = 17, posX = 270, posY = 102}, -- Valley Station,  house by the lake ID:31
 {worldX = 46, worldY = 17, posX = 285, posY = 37}, -- Valley Station,  small homes in the woods 1 ID:32
 {worldX = 46, worldY = 16, posX = 231, posY = 289}, -- Valley Station,  small homes in the woods 2 ID:33
-{worldX = 48, worldY = 16, posX = 150, posY = 180}, -- Valley Station,  graveyard ID:37
+{worldX = 48, worldY = 16, posX = 150, posY = 178}, -- Valley Station,  graveyard ID:37
 {worldX = 46, worldY = 16, posX = 135, posY = 65}, -- Valley Station,  small grocery ID:40
 {worldX = 43, worldY = 17, posX = 155, posY = 138}, -- Valley Station,  row of houses by lodge, house 1 ID:51
 {worldX = 43, worldY = 17, posX = 153, posY = 90}, -- Valley Station,  row of houses by lodge, house 2 ID:52
@@ -83,11 +83,11 @@ policeofficer = {
 {worldX = 42, worldY = 16, posX = 272, posY = 67}, -- Valley Station,  academy, office ID:57
 {worldX = 42, worldY = 19, posX = 148, posY = 19}, -- Valley Station,  bus station diner, kitchen ID:66
 {worldX = 42, worldY = 19, posX = 30, posY = 32}, -- Valley Station,  medium house 1 ID:73
-{worldX = 42, worldY = 17, posX = 293, posY = 181}, -- Valley Station,  medium house 5, nice ID:85
+{worldX = 41, worldY = 17, posX = 291, posY = 182}, -- Valley Station,  medium house 5, nice ID:85
 {worldX = 41, worldY = 17, posX = 242, posY = 115}, -- Valley Station,  vacant store ID:87
 {worldX = 39, worldY = 23, posX = 281, posY = 18, posZ = 1}, -- West Point,  apartment 1, above food market ID:102
-{worldX = 39, worldY = 23, posX = 223, posY = 28}, -- West Point,  restaurant ID:104
-{worldX = 39, worldY = 23, posX = 242, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
+{worldX = 39, worldY = 23, posX = 232, posY = 28}, -- West Point,  restaurant ID:104
+{worldX = 39, worldY = 23, posX = 249, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
 {worldX = 39, worldY = 23, posX = 200, posY = 48}, -- West Point,  police station ID:108
 {worldX = 39, worldY = 23, posX = 128, posY = 12}, -- West Point, variety store  ID:119
 {worldX = 39, worldY = 22, posX = 250, posY = 287, posZ = 1}, -- West Point,  mayor's office ID:128
@@ -247,10 +247,10 @@ securityguard = {
 {worldX = 40, worldY = 23, posX = 13, posY = 19}, -- West Point,  mini-hotel, lobby ID:94
 {worldX = 39, worldY = 23, posX = 203, posY = 17}, -- West Point,  knox bank, security ID:111
 {worldX = 40, worldY = 23, posX = 127, posY = 137}, -- West Point,  storage lots office ID:149
-{worldX = 38, worldY = 34, posX = 213, posY = 1}, -- Muldraugh,  railyard security office ID:195
+{worldX = 38, worldY = 34, posX = 212, posY = 1}, -- Muldraugh,  railyard security office ID:195
 {worldX = 39, worldY = 32, posX = 104, posY = 179}, -- Muldraugh,  empty warehouse 1, east of railyard, breakroom ID:208
-{worldX = 34, worldY = 32, posX = 152, posY = 29}, -- Muldraugh,  lumber storage, security ID:212
-{worldX = 34, worldY = 31, posX = 143, posY = 121}, -- Muldraugh,  lumber mill security ID:213
+{worldX = 34, worldY = 32, posX = 152, posY = 30}, -- Muldraugh,  lumber storage, security ID:212
+{worldX = 34, worldY = 31, posX = 142, posY = 120}, -- Muldraugh,  lumber mill security ID:213
 {worldX = 34, worldY = 30, posX = 148, posY = 256}, -- Muldraugh,  storage 1 ID:218
 {worldX = 35, worldY = 31, posX = 133, posY = 84}, -- Muldraugh,  storage building by garages, breakroom ID:223
 {worldX = 35, worldY = 32, posX = 125, posY = 95}, -- Muldraugh,  knox bank, security ID:241
@@ -297,7 +297,7 @@ parkranger = 	{
 {worldX = 43, worldY = 17, posX = 159, posY = 34}, -- Valley Station,  row of houses by lodge, house 4 nice ID:54
 {worldX = 39, worldY = 23, posX = 232, posY = 40}, -- West Point,  hardware store ID:107
 {worldX = 39, worldY = 23, posX = 128, posY = 12}, -- West Point, variety store  ID:119
-{worldX = 40, worldY = 22, posX = 74, posY = 161}, -- West Point,  gun store, entrance ID:143
+{worldX = 40, worldY = 22, posX = 73, posY = 160}, -- West Point,  gun store, entrance ID:143
 {worldX = 35, worldY = 34, posX = 136, posY = 214}, -- Muldraugh,  police station ID:277
 {worldX = 35, worldY = 35, posX = 262, posY = 54}, -- Muldraugh,  tavern, bar ID:284
 {worldX = 36, worldY = 32, posX = 51, posY = 162}, -- Muldraugh,  farmer market ID:291
@@ -330,7 +330,7 @@ parkranger = 	{
 {worldX = 16, worldY = 26, posX = 211, posY = 197}, -- Isolated Areas,Scouting Camp Cabins, admin building ID:677
 {worldX = 15, worldY = 26, posX = 207, posY = 116}, -- Isolated Areas,Scouting Camp Cabins, nice cabin ID:678
 {worldX = 36, worldY = 35, posX = 265, posY = 142}, -- Isolated Areas,South Muldraugh Cabin ID:679
-{worldX = 28, worldY = 29, posX = 150, posY = 156} -- Dixie,Dixie picnic area bathrooms ID:824
+{worldX = 38, worldY = 29, posX = 150, posY = 156}, -- Dixie,Dixie picnic area bathrooms ID:824
 },--end parkranger
 
 fireofficer = 	{
@@ -348,7 +348,7 @@ fireofficer = 	{
 {worldX = 41, worldY = 17, posX = 285, posY = 82}, -- Valley Station,  small house 5 ID:88
 {worldX = 39, worldY = 23, posX = 200, posY = 48}, -- West Point,  police station ID:108
 {worldX = 40, worldY = 22, posX = 19, posY = 251}, -- West Point,  gigamart, bakery ID:122
-{worldX = 39, worldY = 23, posX = 160, posY = 288, posZ = 1}, -- West Point,  apartment 5, above hairogenesis, nice ID:137
+{worldX = 39, worldY = 22, posX = 160, posY = 288, posZ = 1}, -- West Point,  apartment 5, above hairogenesis, nice ID:137
 {worldX = 39, worldY = 22, posX = 124, posY = 270}, -- West Point,  gas station  ID:139
 {worldX = 40, worldY = 23, posX = 71, posY = 251}, -- West Point,  fossoil ID:154
 {worldX = 38, worldY = 23, posX = 256, posY = 185}, -- West Point,  pizza whirled, kitchen ID:160
@@ -431,7 +431,7 @@ chef = 	{
 {worldX = 38, worldY = 23, posX = 256, posY = 185}, -- West Point,  pizza whirled, kitchen ID:160
 {worldX = 37, worldY = 22, posX = 281, posY = 195}, -- West Point,  school, kitchen ID:172
 {worldX = 37, worldY = 22, posX = 283, posY = 174}, -- West Point,  school, office ID:173
-{worldX = 37, worldY = 23, posX = 54, posY = 165}, -- West Point,  picnic area kitchen ID:191
+{worldX = 40, worldY = 24, posX = 65, posY = 165}, -- West Point,  picnic area kitchen ID:191
 {worldX = 35, worldY = 31, posX = 120, posY = 138}, -- Muldraugh,  buffet, kitchen ID:228
 {worldX = 35, worldY = 31, posX = 107, posY = 176}, -- Muldraugh,  burger joint, kitchen ID:232
 {worldX = 35, worldY = 31, posX = 127, posY = 207}, -- Muldraugh,  pile o crepe, kitchen ID:234
@@ -656,7 +656,7 @@ farmer = {
 {worldX = 27, worldY = 34, posX = 97, posY = 36}, -- Rosewood,  industrial2 north Rosewood farm 23, worker house 1 ID:776
 {worldX = 27, worldY = 34, posX = 44, posY = 33}, -- Rosewood,  industrial2 north Rosewood farm 23, worker dormitory 1 ID:778
 {worldX = 26, worldY = 33, posX = 223, posY = 260}, -- Rosewood,  north Rosewood farm 24 ID:780
-{worldX = 23, worldY = 35, posX = 31, posY = 89}, -- Rosewood,  north Rosewood farm 29, shed ID:786
+{worldX = 23, worldY = 35, posX = 32, posY = 87}, -- Rosewood,  north Rosewood farm 29, shed ID:786
 {worldX = 23, worldY = 35, posX = 75, posY = 127}, -- Rosewood,  north Rosewood farm 30 ID:787
 {worldX = 24, worldY = 35, posX = 85, posY = 236}, -- Rosewood,  north Rosewood farm 31 ID:788
 {worldX = 26, worldY = 36, posX = 171, posY = 273}, -- Rosewood,  north Rosewood farm 37, house ID:794
@@ -691,14 +691,14 @@ fisherman = {
 {worldX = 19, worldY = 17, posX = 256, posY = 165}, -- Riverside,  burger joint ID:565
 {worldX = 19, worldY = 17, posX = 219, posY = 144}, -- Riverside,  bait shop ID:567
 {worldX = 22, worldY = 17, posX = 204, posY = 269}, -- Riverside,  big house 2 ID:575
-{worldX = 22, worldY = 18, posX = 204, posY = 28}, -- Riverside,  small house 1 ID:584
+{worldX = 22, worldY = 18, posX = 205, posY = 32}, -- Riverside,  small house 1 ID:584
 {worldX = 21, worldY = 18, posX = 201, posY = 182}, -- Riverside,  small house 2 ID:585
 {worldX = 21, worldY = 18, posX = 162, posY = 182}, -- Riverside,  small house 3 ID:586
 {worldX = 21, worldY = 18, posX = 90, posY = 182}, -- Riverside,  small house 4 ID:587
 {worldX = 21, worldY = 18, posX = 27, posY = 20}, -- Riverside,  small house 5 ID:588
 {worldX = 21, worldY = 18, posX = 37, posY = 111}, -- Riverside,  medium house 1 ID:589
 {worldX = 20, worldY = 18, posX = 115, posY = 62}, -- Riverside,  small house 1 ID:590
-{worldX = 20, worldY = 17, posX = 88, posY = 182}, -- Riverside,  small house 2, nice, fixed 11/12 spawn in water ID:591
+{worldX = 20, worldY = 17, posX = 76, posY = 247}, -- Riverside,  small house 2, nice ID:591
 {worldX = 19, worldY = 17, posX = 91, posY = 216}, -- Riverside,  small house 3 ID:592
 {worldX = 19, worldY = 17, posX = 40, posY = 174}, -- Riverside,  small house 4 ID:593
 {worldX = 19, worldY = 17, posX = 73, posY = 148}, -- Riverside,  small house 5 ID:594
@@ -723,17 +723,17 @@ veteran = {
 {worldX = 41, worldY = 17, posX = 248, posY = 168}, -- Valley Station,  burger joint ID:83
 {worldX = 40, worldY = 23, posX = 19, posY = 17}, -- West Point,  mini-hotel, room 2 ID:93
 {worldX = 39, worldY = 23, posX = 273, posY = 13, posZ = 1}, -- West Point,  apartment 2, above hardware ID:103
-{worldX = 39, worldY = 23, posX = 242, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
+{worldX = 39, worldY = 23, posX = 249, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
 {worldX = 39, worldY = 23, posX = 128, posY = 12}, -- West Point, variety store  ID:119
 {worldX = 39, worldY = 23, posX = 130, posY = 12, posZ = 1}, -- West Point,  apartment 4, above variety store ID:120
-{worldX = 39, worldY = 23, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
+{worldX = 39, worldY = 22, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
 {worldX = 39, worldY = 22, posX = 273, posY = 213}, -- West Point,  spiffos ID:140
 {worldX = 40, worldY = 23, posX = 80, posY = 175}, -- West Point,  burger joint ID:152
 {worldX = 35, worldY = 31, posX = 110, posY = 176}, -- Muldraugh,  burger joint ID:231
 {worldX = 35, worldY = 32, posX = 120, posY = 58}, -- Muldraugh,  spiffos ID:238
 {worldX = 35, worldY = 32, posX = 132, posY = 201, posZ = 1}, -- Muldraugh,  sunstar hotel lobby, room 2 ID:245
 {worldX = 35, worldY = 35, posX = 268, posY = 53,posZ = 1}, -- Muldraugh,  tavern, room 2 ID:286
-{worldX = 36, worldY = 32, posX = 108, posY = 160, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
+{worldX = 36, worldY = 32, posX = 107, posY = 159, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
 {worldX = 34, worldY = 42, posX = 246, posY = 226}, -- March Ridge, townhouse 1 ID:370
 {worldX = 34, worldY = 42, posX = 252, posY = 190}, -- March Ridge, townhouse 2 ID:371
 {worldX = 34, worldY = 42, posX = 280, posY = 159}, -- March Ridge, townhouse 3 ID:372
@@ -817,7 +817,7 @@ lumberjack = {
 {worldX = 33, worldY = 31, posX = 175, posY = 249}, -- Muldraugh,  construction site to east of mccoy, office ID:194
 {worldX = 38, worldY = 33, posX = 189, posY = 220}, -- Muldraugh,  railyard depot 1 ID:196
 {worldX = 34, worldY = 32, posX = 133, posY = 47}, -- Muldraugh,  lumber storage, office ID:211
-{worldX = 34, worldY = 32, posX = 152, posY = 29}, -- Muldraugh,  lumber storage, security ID:212
+{worldX = 34, worldY = 32, posX = 152, posY = 30}, -- Muldraugh,  lumber storage, security ID:212
 {worldX = 34, worldY = 31, posX = 143, posY = 121}, -- Muldraugh,  lumber mill security ID:213
 {worldX = 34, worldY = 31, posX = 106, posY = 113}, -- Muldraugh,  lumber mill 1, breakroom ID:214
 {worldX = 34, worldY = 31, posX = 106, posY = 100}, -- Muldraugh,  lumber mill 1, workfloor ID:215
@@ -979,7 +979,7 @@ engineer = {
 {worldX = 35, worldY = 34, posX = 109, posY = 144}, -- Muldraugh,  office ID:272
 {worldX = 36, worldY = 31, posX = 41, posY = 230}, -- Muldraugh,  small office ID:290
 {worldX = 35, worldY = 33, posX = 198, posY = 212}, -- Muldraugh,  urban warehous, office ID:301
-{worldX = 35, worldY = 34, posX = 189, posY = 139}, -- Muldraugh,  office building1 , office 1 ID:304
+{worldX = 35, worldY = 34, posX = 182, posY = 139}, -- Muldraugh,  office building1 , office 1 ID:304
 {worldX = 35, worldY = 34, posX = 183, posY = 116}, -- Muldraugh,  office building1 , office 2 ID:305
 {worldX = 35, worldY = 34, posX = 190, posY = 159}, -- Muldraugh,  office building 2 ID:306
 {worldX = 33, worldY = 36, posX = 178, posY = 232}, -- Muldraugh Adjacent,  offices 1, lobby ID:317
@@ -1040,7 +1040,7 @@ metalworker = {
 {worldX = 18, worldY = 19, posX = 142, posY = 214}, -- Riverside Adjacent,  factory, office ID:597
 {worldX = 18, worldY = 19, posX = 206, posY = 196}, -- Riverside Adjacent,  factory, workfloor 2 ID:598
 {worldX = 18, worldY = 19, posX = 218, posY = 208}, -- Riverside Adjacent,  factory, attached storage ID:599
-{worldX = 18, worldY = 19, posX = 211, posY = 217}, -- Riverside Adjacent,  factory, adjacent storage ID:600
+{worldX = 18, worldY = 19, posX = 217, posY = 202}, -- Riverside Adjacent,  factory, adjacent storage ID:600
 {worldX = 18, worldY = 19, posX = 28, posY = 262}, -- Riverside Adjacent,  autoshop, workfloor ID:606
 {worldX = 19, worldY = 21, posX = 289, posY = 222}, -- Riverside Adjacent,  country club  maintainence garage ID:623
 {worldX = 18, worldY = 32, posX = 70, posY = 58} -- Isolated Areas,  autoshop workfloor ID:632

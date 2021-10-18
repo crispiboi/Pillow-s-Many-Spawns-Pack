@@ -6,7 +6,7 @@ function SpawnPoints()
 {worldX = 26, worldY = 37, posX = 273, posY = 244}, -- Rosewood, spiffos ID:396
 {worldX = 26, worldY = 37, posX = 267, posY = 239}, -- Rosewood, spiffos , kitchen ID:397
 {worldX = 26, worldY = 38, posX = 277, posY = 30}, -- Rosewood, motel, lobby ID:398
-{worldX = 26, worldY = 38, posX = 287, posY = 10}, -- Rosewood, motel, room 1 ID:399
+{worldX = 26, worldY = 38, posX = 287, posY = 7}, -- Rosewood, motel, room 1 ID:399
 {worldX = 26, worldY = 38, posX = 279, posY = 6, posZ = 1}, -- Rosewood, motel, room 2 ID:400
 {worldX = 26, worldY = 38, posX = 279, posY = 55}, -- Rosewood, diner ID:401
 {worldX = 26, worldY = 38, posX = 275, posY = 55}, -- Rosewood, diner, kitchen ID:402

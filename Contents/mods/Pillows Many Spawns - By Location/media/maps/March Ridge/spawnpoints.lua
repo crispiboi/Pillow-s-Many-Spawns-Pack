@@ -69,7 +69,7 @@ function SpawnPoints()
 {worldX = 32, worldY = 43, posX = 223, posY = 125}, -- townhouse 2
 {worldX = 32, worldY = 43, posX = 251, posY = 73}, -- townhouse 3
 {worldX = 32, worldY = 42, posX = 253, posY = 245}, -- townhouse 4
-{worldX = 32, worldY = 42, posX = 255, posY = 195}, -- townhouse 5
+{worldX = 32, worldY = 42, posX = 252, posY = 192}, -- March Ridge, townhouse 5 ID:392
 {worldX = 32, worldY = 42, posX = 251, posY = 81}, -- townhouse 6
 
 

@@ -9,9 +9,9 @@ function SpawnPoints()
 {worldX = 35, worldY = 32, posX = 131, posY = 230}, -- Muldraugh,  sunstar hotel lobby, room 3 ID:246
 {worldX = 35, worldY = 35, posX = 268, posY = 45,posZ = 1}, -- Muldraugh,  tavern, room 1 ID:285
 {worldX = 35, worldY = 35, posX = 268, posY = 53,posZ = 1}, -- Muldraugh,  tavern, room 2 ID:286
-{worldX = 36, worldY = 32, posX = 108, posY = 160}, -- Muldraugh,  motel, room 1 ID:293
-{worldX = 36, worldY = 32, posX = 108, posY = 160, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
-{worldX = 26, worldY = 38, posX = 287, posY = 10}, -- Rosewood, motel, room 1 ID:399
+{worldX = 36, worldY = 32, posX = 107, posY = 159}, -- Muldraugh,  motel, room 1 ID:293
+{worldX = 36, worldY = 32, posX = 107, posY = 159, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
+{worldX = 26, worldY = 38, posX = 287, posY = 7}, -- Rosewood, motel, room 1 ID:399
 {worldX = 26, worldY = 38, posX = 279, posY = 6, posZ = 1}, -- Rosewood, motel, room 2 ID:400
 {worldX = 26, worldY = 38, posX = 222, posY = 32, posZ = 1}, -- Rosewood, tavern room ID:404
 {worldX = 21, worldY = 17, posX = 40, posY = 158}, -- Riverside,  hotel, room 1 ID:549

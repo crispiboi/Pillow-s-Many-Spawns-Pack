@@ -42,7 +42,7 @@ function SpawnPoints()
 {worldX = 44, worldY = 16, posX = 113, posY = 208}, --  housing development 1
 {worldX = 44, worldY = 16, posX = 149, posY = 171}, --  housing development 2
 {worldX = 44, worldY = 16, posX = 113, posY = 136}, --  housing development 3
-{worldX = 48, worldY = 16, posX = 150, posY = 180}, --  graveyard
+{worldX = 48, worldY = 16, posX = 150, posY = 178}, -- Valley Station,  graveyard ID:37
 {worldX = 46, worldY = 16, posX = 165, posY = 67}, --  burger joint
 {worldX = 46, worldY = 16, posX = 170, posY = 67}, --  burger joint, kitchen
 {worldX = 46, worldY = 16, posX = 135, posY = 65}, --  small grocery
@@ -93,7 +93,7 @@ function SpawnPoints()
 {worldX = 41, worldY = 17, posX = 240, posY = 189}, --  convenience store 2(bait shop)
 {worldX = 41, worldY = 17, posX = 248, posY = 168}, --  burger joint
 {worldX = 41, worldY = 17, posX = 246, posY = 165}, --  burger, stock room
-{worldX = 42, worldY = 17, posX = 293, posY = 181}, --  medium house 5, nice
+{worldX = 41, worldY = 17, posX = 291, posY = 182}, -- Valley Station,  medium house 5, nice ID:85
 {worldX = 42, worldY = 17, posX = 12, posY = 152}, --  small house 4
 {worldX = 41, worldY = 17, posX = 242, posY = 115}, --  vacant store
 {worldX = 41, worldY = 17, posX = 285, posY = 82}, --  small house 5
@@ -114,9 +114,9 @@ function SpawnPoints()
 {worldX = 39, worldY = 23, posX = 260, posY = 11}, --  post office
 {worldX = 39, worldY = 23, posX = 281, posY = 18, posZ = 1}, --  apartment 1, above food market
 {worldX = 39, worldY = 23, posX = 273, posY = 13, posZ = 1}, --  apartment 2, above hardware
-{worldX = 39, worldY = 23, posX = 223, posY = 28}, --  restaurant
+{worldX = 39, worldY = 23, posX = 232, posY = 28}, -- West Point,  restaurant ID:104
 {worldX = 39, worldY = 23, posX = 242, posY = 17}, --  restaraut, kitchen
-{worldX = 39, worldY = 23, posX = 242, posY = 14, posZ = 1}, --  apartment 3, above restaurant
+{worldX = 39, worldY = 23, posX = 249, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
 {worldX = 39, worldY = 23, posX = 232, posY = 40}, --  hardware store
 {worldX = 39, worldY = 23, posX = 200, posY = 48}, --  police station
 {worldX = 39, worldY = 23, posX = 188, posY = 48}, --  police station, jail
@@ -148,13 +148,13 @@ function SpawnPoints()
 {worldX = 39, worldY = 22, posX = 169, posY = 286}, --  valu insurance
 {worldX = 39, worldY = 22, posX = 160, posY = 288}, --  hairogenesis
 {worldX = 39, worldY = 22, posX = 161, posY = 273}, --  clothing store
-{worldX = 39, worldY = 23, posX = 160, posY = 288, posZ = 1}, --  apartment 5, above hairogenesis, nice
-{worldX = 39, worldY = 23, posX = 169, posY = 286, posZ = 1}, --  apartment 6, above valu insurance
+{worldX = 39, worldY = 22, posX = 160, posY = 288, posZ = 1}, -- West Point,  apartment 5, above hairogenesis, nice ID:137
+{worldX = 39, worldY = 22, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
 {worldX = 39, worldY = 22, posX = 124, posY = 270}, --  gas station 
 {worldX = 39, worldY = 22, posX = 273, posY = 213}, --  spiffos
 {worldX = 39, worldY = 22, posX = 282, posY = 207}, --  spiffos, kitchen
 {worldX = 40, worldY = 22, posX = 67, posY = 202}, --  twiggy's
-{worldX = 40, worldY = 22, posX = 74, posY = 161}, --  gun store, entrance
+{worldX = 40, worldY = 22, posX = 73, posY = 160}, -- West Point,  gun store, entrance ID:143
 {worldX = 39, worldY = 22, posX = 234, posY = 200}, --  pharmahug, store
 {worldX = 39, worldY = 22, posX = 239, posY = 198}, --  pharmahug, back room
 {worldX = 39, worldY = 22, posX = 233, posY = 187}, --  laundromat
@@ -206,7 +206,7 @@ function SpawnPoints()
 {worldX = 37, worldY = 23, posX = 268, posY = 125}, --  medium house 1
 {worldX = 37, worldY = 23, posX = 210, posY = 36}, --  medium house 2
 {worldX = 40, worldY = 24, posX = 48, posY = 167}, --  picnic area lobby
-{worldX = 37, worldY = 23, posX = 54, posY = 165}, --  picnic area kitchen
+{worldX = 40, worldY = 24, posX = 65, posY = 165}, -- West Point,  picnic area kitchen ID:191
 --muldraugh locations
 --locations around muldraugh
 {worldX = 36, worldY = 30, posX = 287, posY = 241}, --  train station
@@ -214,7 +214,7 @@ function SpawnPoints()
 {worldX = 33, worldY = 31, posX = 175, posY = 249}, --  construction site to east of mccoy, office
 
 --railyard locations, depots are south to north
-{worldX = 38, worldY = 34, posX = 213, posY = 1}, --  railyard security office
+{worldX = 38, worldY = 34, posX = 212, posY = 1}, -- Muldraugh,  railyard security office ID:195
 {worldX = 38, worldY = 33, posX = 189, posY = 220}, --  railyard depot 1
 {worldX = 38, worldY = 33, posX = 264, posY = 195}, --  railyard depot 2
 {worldX = 38, worldY = 33, posX = 204, posY = 143}, --  railyard depot 3
@@ -233,8 +233,8 @@ function SpawnPoints()
 
 --mccoy locations
 {worldX = 34, worldY = 32, posX = 133, posY = 47}, --  lumber storage, office
-{worldX = 34, worldY = 32, posX = 152, posY = 29}, --  lumber storage, security
-{worldX = 34, worldY = 31, posX = 143, posY = 121}, --  lumber mill security
+{worldX = 34, worldY = 32, posX = 152, posY = 30}, -- Muldraugh,  lumber storage, security ID:212
+{worldX = 34, worldY = 31, posX = 142, posY = 120}, -- Muldraugh,  lumber mill security ID:213
 {worldX = 34, worldY = 31, posX = 106, posY = 113}, --  lumber mill 1, breakroom
 {worldX = 34, worldY = 31, posX = 106, posY = 100}, --  lumber mill 1, workfloor
 {worldX = 34, worldY = 31, posX = 120, posY = 36}, --  lumber mill 2, breakroom
@@ -317,8 +317,8 @@ function SpawnPoints()
 {worldX = 36, worldY = 31, posX = 41, posY = 230}, --  small office
 {worldX = 36, worldY = 32, posX = 51, posY = 162}, --  farmer market
 {worldX = 36, worldY = 32, posX = 119, posY = 155}, --  motel, office
-{worldX = 36, worldY = 32, posX = 108, posY = 160}, --  motel, room 1
-{worldX = 36, worldY = 32, posX = 108, posY = 160, posZ = 1}, --  motel, room 2
+{worldX = 36, worldY = 32, posX = 107, posY = 159}, -- Muldraugh,  motel, room 1 ID:293
+{worldX = 36, worldY = 32, posX = 107, posY = 159, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
 {worldX = 36, worldY = 32, posX = 117, posY = 242}, --  laundromat
 {worldX = 35, worldY = 32, posX = 200, posY = 224}, --  self storage, office
 {worldX = 36, worldY = 33, posX = 82, posY = 135}, --  cortman medical, lobby
@@ -328,13 +328,64 @@ function SpawnPoints()
 {worldX = 35, worldY = 33, posX = 198, posY = 212}, --  urban warehous, office
 {worldX = 35, worldY = 33, posX = 196, posY = 203}, --  urban warehous, storage
 {worldX = 35, worldY = 33, posX = 274, posY = 271}, --  church
-{worldX = 35, worldY = 34, posX = 189, posY = 139}, --  office building1 , office 1
+{worldX = 35, worldY = 34, posX = 182, posY = 139}, -- Muldraugh,  office building1 , office 1 ID:304
 {worldX = 35, worldY = 34, posX = 183, posY = 116}, --  office building1 , office 2
 {worldX = 35, worldY = 34, posX = 190, posY = 159}, --  office building 2
 {worldX = 35, worldY = 34, posX = 265, posY = 112}, --  storage facility office
 {worldX = 35, worldY = 34, posX = 203, posY = 258}, --  warehouses, 1 office
 {worldX = 35, worldY = 34, posX = 201, posY = 248}, --  warehouses, 1 storage
 {worldX = 35, worldY = 34, posX = 217, posY = 228}, --  warehouses, 2 storage
+
+--muldraugh neighborhoods
+{worldX = 35, worldY = 31, posX = 151, posY = 73}, -- Muldraugh,  small house 1 ID:838
+{worldX = 35, worldY = 31, posX = 198, posY = 54}, -- Muldraugh,  big house 1 ID:839
+{worldX = 35, worldY = 31, posX = 156, posY = 120}, -- Muldraugh,  medium house 1 ID:840
+{worldX = 35, worldY = 31, posX = 289, posY = 118}, -- Muldraugh,  small house 2 ID:841
+{worldX = 36, worldY = 31, posX = 58, posY = 105}, -- Muldraugh,  medium house 2 ID:842
+{worldX = 35, worldY = 31, posX = 247, posY = 157}, -- Muldraugh,  big house 2 ID:843
+{worldX = 36, worldY = 31, posX = 144, posY = 72}, -- Muldraugh,  small house 3 ID:844
+{worldX = 36, worldY = 31, posX = 72, posY = 191}, -- Muldraugh,  trailer 1 ID:845
+{worldX = 36, worldY = 31, posX = 133, posY = 219}, -- Muldraugh,  trailer 2 ID:846
+{worldX = 35, worldY = 31, posX = 165, posY = 248}, -- Muldraugh,  small house 4, gated community ID:847
+{worldX = 35, worldY = 31, posX = 222, posY = 281}, -- Muldraugh,  small house 5, gated community ID:848
+{worldX = 35, worldY = 32, posX = 195, posY = 9}, -- Muldraugh,  medium house 3 ID:849
+{worldX = 35, worldY = 32, posX = 145, posY = 70}, -- Muldraugh,  small house 6, split a ID:850
+{worldX = 35, worldY = 32, posX = 152, posY = 69}, -- Muldraugh,  small house 6, split b ID:851
+{worldX = 35, worldY = 32, posX = 186, posY = 63}, -- Muldraugh,  big house 3 ID:852
+{worldX = 35, worldY = 32, posX = 226, posY = 35}, -- Muldraugh,  medium house 4 ID:853
+{worldX = 35, worldY = 32, posX = 283, posY = 113}, -- Muldraugh,  medium house 5 ,cabin style ID:854
+{worldX = 35, worldY = 32, posX = 153, posY = 115}, -- Muldraugh,  medium house 6 ID:855
+{worldX = 36, worldY = 32, posX = 92, posY = 120}, -- Muldraugh,  trailer 3 ID:856
+{worldX = 36, worldY = 32, posX = 113, posY = 47}, -- Muldraugh,  trailer 4 ID:857
+{worldX = 36, worldY = 32, posX = 146, posY = 81}, -- Muldraugh,  trailer 5 ID:858
+{worldX = 36, worldY = 32, posX = 150, posY = 107}, -- Muldraugh,  trailer 6 ID:859
+{worldX = 36, worldY = 32, posX = 176, posY = 133}, -- Muldraugh,  trailer 7 ID:860
+{worldX = 36, worldY = 32, posX = 176, posY = 178}, -- Muldraugh,  trailer 8 ID:861
+{worldX = 35, worldY = 32, posX = 197, posY = 177}, -- Muldraugh,  small house 1 ID:862
+{worldX = 35, worldY = 32, posX = 233, posY = 161}, -- Muldraugh,  small house 2 ID:863
+{worldX = 35, worldY = 32, posX = 279, posY = 208}, -- Muldraugh,  big house 1 ID:864
+{worldX = 36, worldY = 32, posX = 39, posY = 196}, -- Muldraugh,  big house 2 ID:865
+{worldX = 36, worldY = 32, posX = 87, posY = 246}, -- Muldraugh,  medium house 1 ID:866
+{worldX = 36, worldY = 32, posX = 52, posY = 247}, -- Muldraugh,  medium house 2 ID:867
+{worldX = 35, worldY = 32, posX = 190, posY = 273}, -- Muldraugh,  small house 3 ID:868
+{worldX = 35, worldY = 32, posX = 195, posY = 293}, -- Muldraugh,  small house 4 ID:869
+{worldX = 35, worldY = 33, posX = 254, posY = 14}, -- Muldraugh,  big house 3 ID:870
+{worldX = 35, worldY = 32, posX = 279, posY = 278}, -- Muldraugh,  medium house 3 ID:871
+{worldX = 36, worldY = 32, posX = 56, posY = 279}, -- Muldraugh,  small house 5 ID:872
+{worldX = 36, worldY = 33, posX = 84, posY = 20}, -- Muldraugh,  small house 6 ID:873
+{worldX = 36, worldY = 33, posX = 85, posY = 56}, -- Muldraugh,  small house 7 ID:874
+{worldX = 36, worldY = 33, posX = 109, posY = 95}, -- Muldraugh,  medium house 4 ID:875
+{worldX = 36, worldY = 33, posX = 110, posY = 134}, -- Muldraugh,  medium house 5 ID:876
+{worldX = 36, worldY = 33, posX = 6, posY = 117}, -- Muldraugh,  medium house 6 ID:877
+{worldX = 35, worldY = 33, posX = 237, posY = 91}, -- Muldraugh,  small house 8 ID:878
+{worldX = 36, worldY = 33, posX = 73, posY = 218}, -- Muldraugh,  big house 4 ID:879
+{worldX = 36, worldY = 33, posX = 40, posY = 284}, -- Muldraugh,  big house 5 ID:880
+{worldX = 35, worldY = 33, posX = 221, posY = 275}, -- Muldraugh,  small house 9 ID:881
+{worldX = 36, worldY = 34, posX = 53, posY = 84}, -- Muldraugh,  medium house 7 ID:882
+{worldX = 36, worldY = 34, posX = 19, posY = 205}, -- Muldraugh,  trailer 1 ID:883
+{worldX = 35, worldY = 34, posX = 279, posY = 234}, -- Muldraugh,  trailer 2 ID:884
+{worldX = 35, worldY = 34, posX = 251, posY = 220}, -- Muldraugh,  trailer 3 ID:885
+
 
 --industrial complex north of march ridge
 {worldX = 33, worldY = 37, posX = 212, posY = 46}, --  diner
@@ -424,7 +475,7 @@ function SpawnPoints()
 {worldX = 32, worldY = 43, posX = 223, posY = 125}, -- townhouse 2
 {worldX = 32, worldY = 43, posX = 251, posY = 73}, -- townhouse 3
 {worldX = 32, worldY = 42, posX = 253, posY = 245}, -- townhouse 4
-{worldX = 32, worldY = 42, posX = 255, posY = 195}, -- townhouse 5
+{worldX = 32, worldY = 42, posX = 252, posY = 192}, -- March Ridge, townhouse 5 ID:392
 {worldX = 32, worldY = 42, posX = 251, posY = 81}, -- townhouse 6
 
 --rosewood locations
@@ -434,7 +485,7 @@ function SpawnPoints()
 {worldX = 26, worldY = 37, posX = 273, posY = 244}, -- spiffos
 {worldX = 26, worldY = 37, posX = 267, posY = 239}, -- spiffos , kitchen
 {worldX = 26, worldY = 38, posX = 277, posY = 30}, -- motel, lobby
-{worldX = 26, worldY = 38, posX = 287, posY = 10}, -- motel, room 1
+{worldX = 26, worldY = 38, posX = 287, posY = 7}, -- Rosewood, motel, room 1 ID:399
 {worldX = 26, worldY = 38, posX = 279, posY = 6, posZ = 1}, -- motel, room 2
 {worldX = 26, worldY = 38, posX = 279, posY = 55}, -- diner
 {worldX = 26, worldY = 38, posX = 275, posY = 55}, -- diner, kitchen
@@ -565,7 +616,7 @@ function SpawnPoints()
 {worldX = 21, worldY = 17, posX = 195, posY = 241}, --  gigamart, kitchen
 {worldX = 21, worldY = 17, posX = 213, posY = 204}, --  bank lobby
 {worldX = 21, worldY = 17, posX = 206, posY = 205}, --  bank security office
-{worldX = 21, worldY = 17, posX = 117, posY = 206}, --  bookstore
+{worldX = 21, worldY = 17, posX = 135, posY = 166}, -- Riverside,  bookstore ID:519
 {worldX = 21, worldY = 17, posX = 159, posY = 196}, --  office 1
 {worldX = 21, worldY = 17, posX = 154, posY = 204}, --  toy store
 {worldX = 21, worldY = 17, posX = 139, posY = 200}, --  office 2
@@ -621,7 +672,7 @@ function SpawnPoints()
 {worldX = 19, worldY = 17, posX = 257, posY = 291}, --  laundromat
 {worldX = 19, worldY = 18, posX = 263, posY = 16}, --  bar
 {worldX = 19, worldY = 18, posX = 94, posY = 26}, --  construction site 2 office
-{worldX = 19, worldY = 17, posX = 13, posY = 248}, --  graveyard chapel
+{worldX = 19, worldY = 17, posX = 8, posY = 247}, -- Riverside,  graveyard chapel ID:573
 --east neighborhood, gated community
 {worldX = 22, worldY = 18, posX = 162, posY = 63}, --  big house 1
 {worldX = 22, worldY = 17, posX = 204, posY = 269}, --  big house 2
@@ -634,7 +685,7 @@ function SpawnPoints()
 {worldX = 21, worldY = 18, posX = 143, posY = 66}, --  school, classroom
 {worldX = 21, worldY = 18, posX = 164, posY = 39}, --  school, kitchen
 {worldX = 21, worldY = 18, posX = 152, posY = 50}, --  school, nurse office
-{worldX = 22, worldY = 18, posX = 204, posY = 28}, --  small house 1
+{worldX = 22, worldY = 18, posX = 205, posY = 32}, -- Riverside,  small house 1 ID:584
 {worldX = 21, worldY = 18, posX = 201, posY = 182}, --  small house 2
 {worldX = 21, worldY = 18, posX = 162, posY = 182}, --  small house 3
 {worldX = 21, worldY = 18, posX = 90, posY = 182}, --  small house 4
@@ -642,7 +693,7 @@ function SpawnPoints()
 {worldX = 21, worldY = 18, posX = 37, posY = 111}, --  medium house 1
 --west neighborhood
 {worldX = 20, worldY = 18, posX = 115, posY = 62}, --  small house 1
-{worldX = 20, worldY = 17, posX = 88, posY = 182}, --  small house 2, nice, fixed 11/12 spawn in water
+{worldX = 20, worldY = 17, posX = 76, posY = 247}, -- Riverside,  small house 2, nice ID:591
 {worldX = 19, worldY = 17, posX = 91, posY = 216}, --  small house 3
 {worldX = 19, worldY = 17, posX = 40, posY = 174}, --  small house 4
 {worldX = 19, worldY = 17, posX = 73, posY = 148}, --  small house 5
@@ -654,7 +705,7 @@ function SpawnPoints()
 {worldX = 18, worldY = 19, posX = 142, posY = 214}, --  factory, office
 {worldX = 18, worldY = 19, posX = 206, posY = 196}, --  factory, workfloor 2
 {worldX = 18, worldY = 19, posX = 218, posY = 208}, --  factory, attached storage
-{worldX = 18, worldY = 19, posX = 211, posY = 217}, --  factory, adjacent storage
+{worldX = 18, worldY = 19, posX = 217, posY = 202}, -- Riverside Adjacent,  factory, adjacent storage ID:600
 {worldX = 18, worldY = 20, posX = 115, posY = 87}, --  storage lot office
 {worldX = 18, worldY = 19, posX = 18, posY = 172}, --  gas station
 {worldX = 18, worldY = 19, posX = 25, posY = 210}, --  diner
@@ -706,6 +757,211 @@ function SpawnPoints()
 {worldX = 12, worldY = 28, posX = 103, posY = 62}, --  diner, kitchen
 {worldX = 12, worldY = 28, posX = 46, posY = 166}, --  medium house
 
+--Isolated areaas
+{worldX = 33, worldY = 22, posX = 283, posY = 165}, -- Isolated Areas, Cabin by the Lake, West of West Point ID:652
+{worldX = 45, worldY = 24, posX = 132, posY = 24}, -- Isolated Areas, Cabin east of West Point ID:653
+{worldX = 32, worldY = 29, posX = 67, posY = 75}, -- Isolated Areas, Forest Cabin, Western Woods ID:654
+{worldX = 37, worldY = 29, posX = 142, posY = 254}, -- Isolated Areas, Forest Cabin, near Dixie ID:655
+{worldX = 14, worldY = 24, posX = 47, posY = 28}, -- Isolated Areas,Extremely Isolated Camping cabin ID:656
+{worldX = 38, worldY = 30, posX = 180, posY = 290}, -- Isolated Areas,Isolated Forest House ID:657
+{worldX = 31, worldY = 34, posX = 45, posY = 96}, -- Isolated Areas,Forest Shack between Rosewood and Muldraugh ID:658
+{worldX = 41, worldY = 29, posX = 173, posY = 220}, -- Isolated Areas,Muldraugh Campgrounds ID:659
+{worldX = 15, worldY = 28, posX = 175, posY = 202}, -- Isolated Areas,Scouting Camp Greeting Hall 1, south of lake ID:660
+{worldX = 16, worldY = 26, posX = 211, posY = 196}, -- Isolated Areas,Scouting Camp Greeting Hall 2, east of lake ID:661
+{worldX = 16, worldY = 26, posX = 211, posY = 196, posZ = 1}, -- Isolated Areas,Scouting Camp Greeting Hall 2, east of lake, 2nd floor ID:662
+{worldX = 16, worldY = 26, posX = 102, posY = 137}, -- Isolated Areas,Scouting Camp utility building ID:663
+{worldX = 15, worldY = 26, posX = 223, posY = 190}, -- Isolated Areas,Scouting Camp dining hall  ID:664
+{worldX = 15, worldY = 26, posX = 216, posY = 194}, -- Isolated Areas,Scouting Camp dining hall, kitchen ID:665
+{worldX = 13, worldY = 27, posX = 165, posY = 52}, -- Isolated Areas,Scouting Camp dining hall, ranger cabin ID:666
+{worldX = 15, worldY = 26, posX = 210, posY = 47}, -- Isolated Areas,Scouting Camp Cabins, S1 ID:667
+{worldX = 15, worldY = 26, posX = 222, posY = 47}, -- Isolated Areas,Scouting Camp Cabins, S2 ID:668
+{worldX = 15, worldY = 26, posX = 266, posY = 47}, -- Isolated Areas,Scouting Camp Cabins, S3 ID:669
+{worldX = 15, worldY = 26, posX = 278, posY = 47}, -- Isolated Areas,Scouting Camp Cabins, S4 ID:670
+{worldX = 15, worldY = 26, posX = 210, posY = 19}, -- Isolated Areas,Scouting Camp Cabins, N1 ID:671
+{worldX = 15, worldY = 26, posX = 222, posY = 19}, -- Isolated Areas,Scouting Camp Cabins, N2 ID:672
+{worldX = 15, worldY = 26, posX = 266, posY = 19}, -- Isolated Areas,Scouting Camp Cabins, N3 ID:673
+{worldX = 15, worldY = 26, posX = 278, posY = 19}, -- Isolated Areas,Scouting Camp Cabins, N4 ID:674
+{worldX = 14, worldY = 28, posX = 73, posY = 130}, -- Isolated Areas,Scouting Camp Cabins, campsite 1 ID:675
+{worldX = 13, worldY = 28, posX = 214, posY = 103}, -- Isolated Areas,Scouting Camp Cabins, campsite 2 ID:676
+{worldX = 16, worldY = 26, posX = 211, posY = 197}, -- Isolated Areas,Scouting Camp Cabins, admin building ID:677
+{worldX = 15, worldY = 26, posX = 207, posY = 116}, -- Isolated Areas,Scouting Camp Cabins, nice cabin ID:678
+{worldX = 36, worldY = 35, posX = 265, posY = 142}, -- Isolated Areas,South Muldraugh Cabin ID:679
+
+--westpoint farms
+{worldX = 33, worldY = 24, posX = 183, posY = 171}, -- West Point,Furthest west farm of westpoint, house ID:680
+{worldX = 33, worldY = 24, posX = 194, posY = 152}, -- West Point,Furthest west farm of westpoint, shed ID:681
+{worldX = 34, worldY = 24, posX = 7, posY = 215}, -- West Point,2nd western farm from westpoint ID:682
+{worldX = 34, worldY = 24, posX = 55, posY = 73}, -- West Point,3rd western farm from westpoint ID:683
+{worldX = 34, worldY = 24, posX = 158, posY = 218}, -- West Point,4th western farm from westpoint, house ID:684
+{worldX = 34, worldY = 24, posX = 134, posY = 210}, -- West Point,4th western farm from westpoint, shed ID:685
+{worldX = 35, worldY = 23, posX = 76, posY = 288}, -- West Point,5th western farm from westpoint, house 1 ID:686
+{worldX = 35, worldY = 23, posX = 85, posY = 245}, -- West Point,5th western farm from westpoint, house 2 ID:687
+{worldX = 35, worldY = 23, posX = 161, posY = 289}, -- West Point,6th western farm from westpoint ID:688
+{worldX = 35, worldY = 24, posX = 242, posY = 126}, -- West Point,7th western farm from westpoint ID:689
+{worldX = 35, worldY = 23, posX = 239, posY = 99}, -- West Point,8th western farm from westpoint ID:690
+{worldX = 35, worldY = 23, posX = 277, posY = 233}, -- West Point,9th western farm from westpoint, 2 story house ID:691
+{worldX = 36, worldY = 23, posX = 82, posY = 253}, -- West Point,small rural homes, 1 ID:692
+{worldX = 36, worldY = 23, posX = 82, posY = 240}, -- West Point,small rural homes, 2 ID:693
+{worldX = 36, worldY = 23, posX = 103, posY = 240}, -- West Point,small rural homes, 3 ID:694
+{worldX = 37, worldY = 22, posX = 35, posY = 252}, -- West Point,farm close to westpoint ID:695
+{worldX = 36, worldY = 22, posX = 142, posY = 124}, -- West Point,farm close to west point and river, big ID:696
+{worldX = 36, worldY = 22, posX = 96, posY = 75}, -- West Point,farm close to west point and river, small ID:697
+
+--medora farms (mall area)
+{worldX = 45, worldY = 15, posX = 68, posY = 114}, -- Valley Station,northern farm 1, fenced ID:698
+{worldX = 45, worldY = 15, posX = 106, posY = 290}, -- Valley Station,northern farm 2, live stock farm ID:699
+{worldX = 46, worldY = 15, posX = 45, posY = 237}, -- Valley Station, big northern farm 1 ID:700
+{worldX = 47, worldY = 16, posX = 148, posY = 41}, -- Valley Station, big northern farm 2 ID:701
+{worldX = 47, worldY = 15, posX = 295, posY = 58}, -- Valley Station, big northern farm 3 ID:702
+{worldX = 47, worldY = 17, posX = 206, posY = 53}, -- Valley Station, big northern farm 4 ID:703
+{worldX = 47, worldY = 16, posX = 220, posY = 161}, -- Valley Station,northern farm 3, food stand ID:704
+{worldX = 47, worldY = 18, posX = 245, posY = 49}, -- Valley Station, big northern farm 5 ID:705
+
+--riverside farms
+{worldX = 19, worldY = 19, posX = 18, posY = 26}, -- Riverside, farm 1, by factory ID:706
+{worldX = 18, worldY = 18, posX = 45, posY = 125}, -- Riverside, riverside farm 2 ID:707
+{worldX = 18, worldY = 18, posX = 10, posY = 46}, -- Riverside, big riverside farm 3 ID:708
+{worldX = 17, worldY = 18, posX = 86, posY = 119}, -- Riverside,  riverside farm 4 ID:709
+{worldX = 16, worldY = 18, posX = 129, posY = 205}, -- Riverside, big riverside farm 5 ID:710
+{worldX = 16, worldY = 19, posX = 41, posY = 37}, -- Riverside,  riverside farm 6 ID:711
+{worldX = 15, worldY = 19, posX = 242, posY = 29}, -- Riverside, big riverside farm 7 ID:712
+{worldX = 15, worldY = 19, posX = 130, posY = 203}, -- Riverside, big riverside farm 8 ID:713
+{worldX = 15, worldY = 19, posX = 39, posY = 27}, -- Riverside, big riverside farm 9 ID:714
+{worldX = 14, worldY = 19, posX = 50, posY = 31}, -- Riverside, big riverside farm 10, house ID:715
+{worldX = 14, worldY = 19, posX = 202, posY = 57}, -- Riverside, big riverside farm 10, shed ID:716
+{worldX = 15, worldY = 19, posX = 8, posY = 5}, -- Riverside, big riverside farm 11 ID:717
+{worldX = 13, worldY = 19, posX = 211, posY = 186}, -- Riverside,  riverside farm 12 ID:718
+{worldX = 13, worldY = 19, posX = 170, posY = 140}, -- Riverside,  riverside farm 13 ID:719
+{worldX = 13, worldY = 19, posX = 52, posY = 82}, -- Riverside,  riverside farm 14 ID:720
+{worldX = 24, worldY = 19, posX = 147, posY = 190}, -- Riverside,  riverside farm 15 ID:721
+{worldX = 24, worldY = 20, posX = 264, posY = 126}, -- Riverside,  riverside farm 16, house ID:722
+{worldX = 24, worldY = 20, posX = 251, posY = 83}, -- Riverside,  riverside farm 16, shed ID:723
+{worldX = 24, worldY = 20, posX = 189, posY = 275}, -- Riverside,  riverside farm 17 ID:724
+{worldX = 24, worldY = 20, posX = 138, posY = 240}, -- Riverside,  riverside farm 18 ID:725
+{worldX = 24, worldY = 21, posX = 202, posY = 239}, -- Riverside,  riverside farm 19 ID:726
+{worldX = 22, worldY = 23, posX = 254, posY = 283}, -- Ekron,  northern Ekron farm 1 ID:727
+{worldX = 22, worldY = 25, posX = 218, posY = 221}, -- Ekron,  northern Ekron farm 2, big ID:728
+
+--Ekron farms
+{worldX = 22, worldY = 23, posX = 254, posY = 283}, -- Ekron,  northern Ekron farm 1 ID:727
+{worldX = 22, worldY = 25, posX = 218, posY = 221}, -- Ekron,  northern Ekron farm 2, big ID:728
+{worldX = 28, worldY = 28, posX = 163, posY = 95}, -- Ekron,  fuckin pony-o-roam-o ID:729
+{worldX = 28, worldY = 29, posX = 216, posY = 123}, -- Ekron,  eastern Ekron farm 1, big with well ID:730
+{worldX = 29, worldY = 30, posX = 14, posY = 280}, -- Ekron,  eastern Ekron farm 2 ID:731
+{worldX = 28, worldY = 31, posX = 112, posY = 62}, -- Ekron,  eastern Ekron farm3 , big  ID:732
+{worldX = 28, worldY = 31, posX = 157, posY = 137}, -- Ekron,  eastern Ekron farm4, fenced area ID:733
+{worldX = 25, worldY = 31, posX = 163, posY = 91}, -- Ekron,  eastern Ekron farm 5, factory worker house 1 ID:734
+{worldX = 25, worldY = 31, posX = 184, posY = 120}, -- Ekron,  eastern Ekron farm6, factory worker house 2 ID:735
+{worldX = 26, worldY = 29, posX = 100, posY = 53}, -- Ekron,  eastern Ekron farm 7, by triple warehouses ID:736
+{worldX = 24, worldY = 28, posX = 290, posY = 106}, -- Ekron,  eastern Ekron farm 8, close to town ID:737
+{worldX = 23, worldY = 30, posX = 213, posY = 159}, -- Ekron,  eastern Ekron farm 1 ID:738
+{worldX = 22, worldY = 29, posX = 213, posY = 174}, -- Ekron,  eastern Ekron farm 2, big ID:739
+{worldX = 23, worldY = 31, posX = 45, posY = 53}, -- Ekron,  eastern Ekron farm 3 ID:740
+{worldX = 22, worldY = 29, posX = 53, posY = 243}, -- Ekron,  eastern Ekron farm 4, by double warehouses ID:741
+{worldX = 22, worldY = 29, posX = 15, posY = 147}, -- Ekron,  eastern Ekron farm 5, by double warehouses ID:742
+{worldX = 22, worldY = 31, posX = 118, posY = 102}, -- Ekron,  eastern Ekron farm 6 ID:743
+{worldX = 21, worldY = 30, posX = 210, posY = 136}, -- Ekron,  eastern Ekron farm 7 ID:744
+{worldX = 21, worldY = 30, posX = 210, posY = 175}, -- Ekron,  eastern Ekron farm 8 ID:745
+{worldX = 21, worldY = 31, posX = 210, posY = 35}, -- Ekron,  eastern Ekron farm 9, by warehouse ID:746
+{worldX = 21, worldY = 31, posX = 175, posY = 52}, -- Ekron,  eastern Ekron farm 10, by warehouse ID:747
+{worldX = 20, worldY = 31, posX = 129, posY = 99}, -- Ekron,  eastern Ekron farm 11 ID:748
+{worldX = 19, worldY = 31, posX = 268, posY = 82}, -- Ekron,  eastern Ekron farm 12 ID:749
+
+--Rosewood farms
+{worldX = 17, worldY = 35, posX = 227, posY = 62}, -- Rosewood,  north Rosewood farm 1 ID:750
+{worldX = 17, worldY = 34, posX = 188, posY = 288}, -- Rosewood,  north Rosewood farm 2 ID:751
+{worldX = 17, worldY = 34, posX = 233, posY = 113}, -- Rosewood,  north Rosewood farm 3 ID:752
+{worldX = 17, worldY = 34, posX = 262, posY = 35}, -- Rosewood,  north Rosewood farm 4 ID:753
+{worldX = 17, worldY = 33, posX = 155, posY = 225}, -- Rosewood,  north Rosewood farm 5 ID:754
+{worldX = 18, worldY = 33, posX = 131, posY = 77}, -- Rosewood,  north Rosewood farm 6 ID:755
+{worldX = 18, worldY = 32, posX = 170, posY = 281}, -- Rosewood,  north Rosewood farm 7 ID:756
+{worldX = 18, worldY = 32, posX = 168, posY = 282}, -- Rosewood,  north Rosewood farm 8 ID:757
+{worldX = 19, worldY = 32, posX = 268, posY = 279}, -- Rosewood,  north Rosewood farm 9, by double warehouses ID:758
+{worldX = 19, worldY = 32, posX = 268, posY = 254}, -- Rosewood,  north Rosewood farm 10, by double warehouses ID:759
+{worldX = 19, worldY = 32, posX = 114, posY = 23}, -- Rosewood,  north Rosewood farm 11 ID:760
+{worldX = 19, worldY = 32, posX = 173, posY = 5}, -- Rosewood,  north Rosewood farm 12 ID:761
+{worldX = 19, worldY = 31, posX = 258, posY = 293}, -- Rosewood,  north Rosewood farm 13 ID:762
+{worldX = 20, worldY = 31, posX = 85, posY = 288}, -- Rosewood,  north Rosewood farm 14 ID:763
+{worldX = 20, worldY = 31, posX = 119, posY = 254}, -- Rosewood,  north Rosewood farm 15 ID:764
+{worldX = 22, worldY = 33, posX = 200, posY = 46}, -- Rosewood,  industrial north Rosewood farm 16, worker house 1 ID:765
+{worldX = 22, worldY = 33, posX = 210, posY = 28}, -- Rosewood,  industrial north Rosewood farm 16, worker house 2 ID:766
+{worldX = 22, worldY = 33, posX = 205, posY = 8}, -- Rosewood,  industrial north Rosewood farm 16, worker house 3 ID:767
+{worldX = 22, worldY = 33, posX = 213, posY = 262}, -- Rosewood,  industrial north Rosewood farm 16, south worker house 4 ID:768
+{worldX = 22, worldY = 33, posX = 178, posY = 235}, -- Rosewood,  industrial north Rosewood farm 16, south worker house 5 ID:769
+{worldX = 23, worldY = 32, posX = 243, posY = 20}, -- Rosewood,  north Rosewood farm 17, livestock ID:770
+{worldX = 23, worldY = 32, posX = 262, posY = 82}, -- Rosewood,  north Rosewood farm 18, livestock ID:771
+{worldX = 24, worldY = 32, posX = 20, posY = 106}, -- Rosewood,  north Rosewood farm 19 ID:772
+{worldX = 23, worldY = 32, posX = 271, posY = 137}, -- Rosewood,  north Rosewood farm 20, fenced areas ID:773
+{worldX = 27, worldY = 32, posX = 141, posY = 237}, -- Rosewood,  north Rosewood farm 21 ID:774
+{worldX = 27, worldY = 32, posX = 194, posY = 277}, -- Rosewood,  north Rosewood farm 22 ID:775
+{worldX = 27, worldY = 34, posX = 97, posY = 36}, -- Rosewood,  industrial2 north Rosewood farm 23, worker house 1 ID:776
+{worldX = 27, worldY = 34, posX = 69, posY = 48}, -- Rosewood,  industrial2 north Rosewood farm 23, worker house 2 ID:777
+{worldX = 27, worldY = 34, posX = 44, posY = 33}, -- Rosewood,  industrial2 north Rosewood farm 23, worker dormitory 1 ID:778
+{worldX = 27, worldY = 34, posX = 29, posY = 45}, -- Rosewood,  industrial2 north Rosewood farm 23, worker dormitory 2 ID:779
+{worldX = 26, worldY = 33, posX = 223, posY = 260}, -- Rosewood,  north Rosewood farm 24 ID:780
+{worldX = 26, worldY = 33, posX = 110, posY = 284}, -- Rosewood,  north Rosewood farm 25 ID:781
+{worldX = 26, worldY = 33, posX = 81, posY = 285}, -- Rosewood,  north Rosewood farm 26 ID:782
+{worldX = 25, worldY = 33, posX = 207, posY = 233}, -- Rosewood,  north Rosewood farm 27, trailer ID:783
+{worldX = 24, worldY = 35, posX = 40, posY = 48}, -- Rosewood,  north Rosewood farm 28 ID:784
+{worldX = 23, worldY = 35, posX = 19, posY = 94}, -- Rosewood,  north Rosewood farm 29, house ID:785
+{worldX = 23, worldY = 35, posX = 32, posY = 87}, -- Rosewood,  north Rosewood farm 29, shed ID:786
+{worldX = 23, worldY = 35, posX = 75, posY = 127}, -- Rosewood,  north Rosewood farm 30 ID:787
+{worldX = 24, worldY = 35, posX = 85, posY = 236}, -- Rosewood,  north Rosewood farm 31 ID:788
+{worldX = 24, worldY = 35, posX = 137, posY = 264}, -- Rosewood,  north Rosewood farm 32 ID:789
+{worldX = 24, worldY = 36, posX = 275, posY = 25}, -- Rosewood,  north Rosewood farm 33 ID:790
+{worldX = 24, worldY = 36, posX = 96, posY = 67}, -- Rosewood,  north Rosewood farm 34 ID:791
+{worldX = 25, worldY = 37, posX = 179, posY = 22}, -- Rosewood,  north Rosewood farm 35 ID:792
+{worldX = 25, worldY = 36, posX = 172, posY = 269}, -- Rosewood,  north Rosewood farm 36 ID:793
+{worldX = 26, worldY = 36, posX = 171, posY = 273}, -- Rosewood,  north Rosewood farm 37, house ID:794
+{worldX = 26, worldY = 36, posX = 186, posY = 238}, -- Rosewood,  north Rosewood farm 37, shed ID:795
+{worldX = 26, worldY = 39, posX = 216, posY = 200}, -- Rosewood,  south Rosewood farm 1 ID:796
+{worldX = 27, worldY = 39, posX = 10, posY = 213}, -- Rosewood,  south Rosewood farm 2 ID:797
+{worldX = 27, worldY = 40, posX = 38, posY = 41}, -- Rosewood,  south Rosewood farm 3 ID:798
+{worldX = 26, worldY = 40, posX = 182, posY = 75}, -- Rosewood,  south Rosewood farm 4 ID:799
+{worldX = 26, worldY = 40, posX = 124, posY = 154}, -- Rosewood,  south Rosewood farm 5 ID:800
+{worldX = 26, worldY = 41, posX = 182, posY = 43}, -- Rosewood,  south Rosewood farm 6 ID:801
+{worldX = 27, worldY = 40, posX = 15, posY = 224}, -- Rosewood,  south Rosewood farm 7 ID:802
+{worldX = 30, worldY = 40, posX = 162, posY = 151}, -- Rosewood,  east Rosewood farm 1 ID:803
+{worldX = 29, worldY = 40, posX = 251, posY = 122}, -- Rosewood,  east Rosewood farm 2 ID:804
+{worldX = 29, worldY = 40, posX = 201, posY = 71}, -- Rosewood,  east Rosewood farm 3 ID:805
+{worldX = 29, worldY = 38, posX = 109, posY = 196}, -- Rosewood,  east Rosewood farm 4 ID:806
+{worldX = 29, worldY = 38, posX = 155, posY = 206}, -- Rosewood,  east Rosewood farm 5 ID:807
+{worldX = 30, worldY = 39, posX = 128, posY = 119}, -- Rosewood,  east industrial Rosewood farm 6, worker dormitory 1 ID:808
+{worldX = 30, worldY = 39, posX = 140, posY = 101}, -- Rosewood,  east industrial Rosewood farm 6, worker dormitory 2 ID:809
+
+
+--Muldraugh farms
+{worldX = 36, worldY = 30, posX = 24, posY = 72}, -- Muldraugh,  awesome farm north of muldraugh ID:810
+{worldX = 36, worldY = 29, posX = 36, posY = 245}, -- Muldraugh,  small farm north of muldraugh ID:811
+
+
+--Dixie spawns
+{worldX = 39, worldY = 29, posX = 165, posY = 124}, -- Dixie,trailer East, 8th row, 3rd from top ID:812
+{worldX = 39, worldY = 29, posX = 137, posY = 169}, -- Dixie,trailer East, 7th row, 4th from top ID:813
+{worldX = 39, worldY = 29, posX = 120, posY = 169}, -- Dixie,trailer East, 6th row. bottom ID:814
+{worldX = 39, worldY = 29, posX = 96, posY = 139}, -- Dixie,trailer East, 5th row. middle ID:815
+{worldX = 39, worldY = 29, posX = 67, posY = 81}, -- Dixie,trailer East, 4th row. top ID:816
+{worldX = 39, worldY = 29, posX = 56, posY = 103}, -- Dixie,trailer East, 3rd row. 2nd from top ID:817
+{worldX = 39, worldY = 29, posX = 30, posY = 128}, -- Dixie,trailer East, 2nd row. bottom ID:818
+{worldX = 39, worldY = 29, posX = 15, posY = 97}, -- Dixie,trailer East, 1st row. top ID:819
+{worldX = 38, worldY = 29, posX = 48, posY = 186}, -- Dixie,trailer West, 1st row. top ID:820
+{worldX = 38, worldY = 29, posX = 79, posY = 254}, -- Dixie,trailer West, 2nd row bottom ID:821
+{worldX = 38, worldY = 29, posX = 104, posY = 203}, -- Dixie,trailer West, 3rd row 2nd from top. big shelves ID:822
+{worldX = 38, worldY = 29, posX = 144, posY = 234}, -- Dixie,trailer West, 4th row, middle. medium shelves long ID:823
+{worldX = 38, worldY = 29, posX = 150, posY = 156}, -- Dixie,Dixie picnic area bathrooms ID:824
+{worldX = 38, worldY = 29, posX = 70, posY = 111}, -- Dixie,Dixie Diner ID:825
+{worldX = 38, worldY = 29, posX = 108, posY = 141}, -- Dixie,Dixie Gas Station ID:826
+{worldX = 38, worldY = 29, posX = 268, posY = 96}, -- Dixie,Dixie super market ID:827
+{worldX = 38, worldY = 29, posX = 283, posY = 123}, -- Dixie,Dixie laundromat ID:828
+{worldX = 38, worldY = 27, posX = 194, posY = 209}, -- Dixie,Dixie cross roads gas station ID:829
+{worldX = 38, worldY = 27, posX = 266, posY = 205}, -- Dixie,Dixie spiffos ID:830
+{worldX = 38, worldY = 29, posX = 262, posY = 179}, -- Dixie,Dixie outside, at turn with wrecks ID:831
+{worldX = 38, worldY = 29, posX = 295, posY = 81}, -- Dixie,Dixie Nice house ID:832
+{worldX = 38, worldY = 29, posX = 222, posY = 176}, -- Dixie, Dixie construction office, south  ID:833
+{worldX = 38, worldY = 29, posX = 290, posY = 90}, -- Dixie, Dixie construction office, north  ID:834
+{worldX = 38, worldY = 27, posX = 286, posY = 263}, -- Dixie, Dixie Molan's used cars ID:835
+{worldX = 38, worldY = 27, posX = 210, posY = 151}, -- Dixie, Dixie Barg-n-clothes, storage room ID:836
+
 --potentially shitty starts
 {worldX = 35, worldY = 37, posX = 86, posY = 43}, -- crossroads wreckage south of muldraugh
 {worldX = 32, worldY = 33, posX = 51, posY = 255}, -- construction site far west of muldraugh, office
@@ -725,11 +981,12 @@ function SpawnPoints()
 {worldX = 25, worldY = 33, posX = 294, posY = 270}, -- Ekron,  hitchhiker Ekron farming cross roads ID:899
 {worldX = 38, worldY = 27, posX = 235, posY = 221}, -- Dixie,  hitchhiker Crossroads north of dixie ID:900
 {worldX = 33, worldY = 37, posX = 221, posY = 42}, -- Muldraugh adjacent,  hitchhiker Diner near mudlraugh industrial zone ID:901
-{worldX = 39, worldY = 29, posX = 57, posY = 106}, -- Dixie, Dixie, vacant trailer ID:902
+{worldX = 39, worldY = 29, posX = 57, posY = 104}, -- Dixie, Dixie, vacant trailer ID:902
 {worldX = 19, worldY = 17, posX = 111, posY = 217}, -- Riverside, Riverside, vacant house ID:903
 {worldX = 26, worldY = 38, posX = 249, posY = 156}, -- Rosewood, Rosewood, vacant house ID:904
 {worldX = 38, worldY = 22, posX = 222, posY = 281}, -- West Point, Westpointe, vacant house ID:905
-{worldX = 36, worldY = 33, posX = 111, posY = 120} -- Muldraugh, muldraugh, vacant house ID:906
+{worldX = 36, worldY = 33, posX = 111, posY = 120}, -- Muldraugh, muldraugh, vacant house ID:906
+{worldX = 39, worldY = 32, posX = 269, posY = 289, posZ =1} -- West Point,Nelolis's Thinking spot ID:907
 }, --end unemployed
 
     }

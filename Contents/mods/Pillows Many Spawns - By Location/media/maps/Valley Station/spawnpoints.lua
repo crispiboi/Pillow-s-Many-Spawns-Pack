@@ -37,7 +37,7 @@ function SpawnPoints()
 {worldX = 44, worldY = 16, posX = 113, posY = 208}, -- Valley Station,  housing development 1 ID:34
 {worldX = 44, worldY = 16, posX = 149, posY = 171}, -- Valley Station,  housing development 2 ID:35
 {worldX = 44, worldY = 16, posX = 113, posY = 136}, -- Valley Station,  housing development 3 ID:36
-{worldX = 48, worldY = 16, posX = 150, posY = 180}, -- Valley Station,  graveyard ID:37
+{worldX = 48, worldY = 16, posX = 150, posY = 178}, -- Valley Station,  graveyard ID:37
 {worldX = 46, worldY = 16, posX = 165, posY = 67}, -- Valley Station,  burger joint ID:38
 {worldX = 46, worldY = 16, posX = 170, posY = 67}, -- Valley Station,  burger joint, kitchen ID:39
 {worldX = 46, worldY = 16, posX = 135, posY = 65}, -- Valley Station,  small grocery ID:40
@@ -85,7 +85,7 @@ function SpawnPoints()
 {worldX = 41, worldY = 17, posX = 240, posY = 189}, -- Valley Station,  convenience store 2(bait shop) ID:82
 {worldX = 41, worldY = 17, posX = 248, posY = 168}, -- Valley Station,  burger joint ID:83
 {worldX = 41, worldY = 17, posX = 246, posY = 165}, -- Valley Station,  burger, stock room ID:84
-{worldX = 42, worldY = 17, posX = 293, posY = 181}, -- Valley Station,  medium house 5, nice ID:85
+{worldX = 41, worldY = 17, posX = 291, posY = 182}, -- Valley Station,  medium house 5, nice ID:85
 {worldX = 42, worldY = 17, posX = 12, posY = 152}, -- Valley Station,  small house 4 ID:86
 {worldX = 41, worldY = 17, posX = 242, posY = 115}, -- Valley Station,  vacant store ID:87
 {worldX = 41, worldY = 17, posX = 285, posY = 82}, -- Valley Station,  small house 5 ID:88

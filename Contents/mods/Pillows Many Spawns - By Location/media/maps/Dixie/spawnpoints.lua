@@ -9,11 +9,11 @@ function SpawnPoints()
 {worldX = 39, worldY = 29, posX = 56, posY = 103}, -- Dixie,trailer East, 3rd row. 2nd from top ID:817
 {worldX = 39, worldY = 29, posX = 30, posY = 128}, -- Dixie,trailer East, 2nd row. bottom ID:818
 {worldX = 39, worldY = 29, posX = 15, posY = 97}, -- Dixie,trailer East, 1st row. top ID:819
-{worldX = 28, worldY = 29, posX = 48, posY = 186}, -- Dixie,trailer West, 1st row. top ID:820
-{worldX = 28, worldY = 29, posX = 79, posY = 254}, -- Dixie,trailer West, 2nd row bottom ID:821
-{worldX = 28, worldY = 29, posX = 104, posY = 203}, -- Dixie,trailer West, 3rd row 2nd from top. big shelves ID:822
-{worldX = 28, worldY = 29, posX = 144, posY = 234}, -- Dixie,trailer West, 4th row, middle. medium shelves long ID:823
-{worldX = 28, worldY = 29, posX = 150, posY = 156}, -- Dixie,Dixie picnic area bathrooms ID:824
+{worldX = 38, worldY = 29, posX = 48, posY = 186}, -- Dixie,trailer West, 1st row. top ID:820
+{worldX = 38, worldY = 29, posX = 79, posY = 254}, -- Dixie,trailer West, 2nd row bottom ID:821
+{worldX = 38, worldY = 29, posX = 104, posY = 203}, -- Dixie,trailer West, 3rd row 2nd from top. big shelves ID:822
+{worldX = 38, worldY = 29, posX = 144, posY = 234}, -- Dixie,trailer West, 4th row, middle. medium shelves long ID:823
+{worldX = 38, worldY = 29, posX = 150, posY = 156}, -- Dixie,Dixie picnic area bathrooms ID:824
 {worldX = 38, worldY = 29, posX = 70, posY = 111}, -- Dixie,Dixie Diner ID:825
 {worldX = 38, worldY = 29, posX = 108, posY = 141}, -- Dixie,Dixie Gas Station ID:826
 {worldX = 38, worldY = 29, posX = 268, posY = 96}, -- Dixie,Dixie super market ID:827

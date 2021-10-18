@@ -4,7 +4,7 @@ function SpawnPoints()
 {worldX = 36, worldY = 30, posX = 287, posY = 241}, -- Muldraugh,  train station ID:192
 {worldX = 34, worldY = 33, posX = 177, posY = 192}, -- Muldraugh,  construction site to east of town ID:193
 {worldX = 33, worldY = 31, posX = 175, posY = 249}, -- Muldraugh,  construction site to east of mccoy, office ID:194
-{worldX = 38, worldY = 34, posX = 213, posY = 1}, -- Muldraugh,  railyard security office ID:195
+{worldX = 38, worldY = 34, posX = 212, posY = 1}, -- Muldraugh,  railyard security office ID:195
 {worldX = 38, worldY = 33, posX = 189, posY = 220}, -- Muldraugh,  railyard depot 1 ID:196
 {worldX = 38, worldY = 33, posX = 264, posY = 195}, -- Muldraugh,  railyard depot 2 ID:197
 {worldX = 38, worldY = 33, posX = 204, posY = 143}, -- Muldraugh,  railyard depot 3 ID:198
@@ -21,7 +21,7 @@ function SpawnPoints()
 {worldX = 39, worldY = 32, posX = 127, posY = 183}, -- Muldraugh,  empty warehouse 2, east of railyard, storage floor ID:209
 {worldX = 39, worldY = 32, posX = 199, posY = 220}, -- Muldraugh,  empty warehouse 2, east of railyard, breakroom ID:210
 {worldX = 34, worldY = 32, posX = 133, posY = 47}, -- Muldraugh,  lumber storage, office ID:211
-{worldX = 34, worldY = 32, posX = 152, posY = 29}, -- Muldraugh,  lumber storage, security ID:212
+{worldX = 34, worldY = 32, posX = 152, posY = 30}, -- Muldraugh,  lumber storage, security ID:212
 {worldX = 34, worldY = 31, posX = 143, posY = 121}, -- Muldraugh,  lumber mill security ID:213
 {worldX = 34, worldY = 31, posX = 106, posY = 113}, -- Muldraugh,  lumber mill 1, breakroom ID:214
 {worldX = 34, worldY = 31, posX = 106, posY = 100}, -- Muldraugh,  lumber mill 1, workfloor ID:215
@@ -102,8 +102,8 @@ function SpawnPoints()
 {worldX = 36, worldY = 31, posX = 41, posY = 230}, -- Muldraugh,  small office ID:290
 {worldX = 36, worldY = 32, posX = 51, posY = 162}, -- Muldraugh,  farmer market ID:291
 {worldX = 36, worldY = 32, posX = 119, posY = 155}, -- Muldraugh,  motel, office ID:292
-{worldX = 36, worldY = 32, posX = 108, posY = 160}, -- Muldraugh,  motel, room 1 ID:293
-{worldX = 36, worldY = 32, posX = 108, posY = 160, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
+{worldX = 36, worldY = 32, posX = 107, posY = 159}, -- Muldraugh,  motel, room 1 ID:293
+{worldX = 36, worldY = 32, posX = 107, posY = 159, posZ = 1}, -- Muldraugh,  motel, room 2 ID:294
 {worldX = 36, worldY = 32, posX = 117, posY = 242}, -- Muldraugh,  laundromat ID:295
 {worldX = 35, worldY = 32, posX = 200, posY = 224}, -- Muldraugh,  self storage, office ID:296
 {worldX = 36, worldY = 33, posX = 82, posY = 135}, -- Muldraugh,  cortman medical, lobby ID:297
@@ -113,7 +113,7 @@ function SpawnPoints()
 {worldX = 35, worldY = 33, posX = 198, posY = 212}, -- Muldraugh,  urban warehous, office ID:301
 {worldX = 35, worldY = 33, posX = 196, posY = 203}, -- Muldraugh,  urban warehous, storage ID:302
 {worldX = 35, worldY = 33, posX = 274, posY = 271}, -- Muldraugh,  church ID:303
-{worldX = 35, worldY = 34, posX = 189, posY = 139}, -- Muldraugh,  office building1 , office 1 ID:304
+{worldX = 35, worldY = 34, posX = 182, posY = 139}, -- Muldraugh,  office building1 , office 1 ID:304
 {worldX = 35, worldY = 34, posX = 183, posY = 116}, -- Muldraugh,  office building1 , office 2 ID:305
 {worldX = 35, worldY = 34, posX = 190, posY = 159}, -- Muldraugh,  office building 2 ID:306
 {worldX = 35, worldY = 34, posX = 265, posY = 112}, -- Muldraugh,  storage facility office ID:307

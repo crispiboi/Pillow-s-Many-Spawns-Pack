@@ -2,8 +2,8 @@ function SpawnPoints()
     return {
         unemployed = 	{
 {worldX = 34, worldY = 32, posX = 133, posY = 47}, -- Muldraugh,  lumber storage, office ID:211
-{worldX = 34, worldY = 32, posX = 152, posY = 29}, -- Muldraugh,  lumber storage, security ID:212
-{worldX = 34, worldY = 31, posX = 143, posY = 121}, -- Muldraugh,  lumber mill security ID:213
+{worldX = 34, worldY = 32, posX = 152, posY = 30}, -- Muldraugh,  lumber storage, security ID:212
+{worldX = 34, worldY = 31, posX = 142, posY = 120}, -- Muldraugh,  lumber mill security ID:213
 {worldX = 34, worldY = 31, posX = 106, posY = 113}, -- Muldraugh,  lumber mill 1, breakroom ID:214
 {worldX = 34, worldY = 31, posX = 106, posY = 100}, -- Muldraugh,  lumber mill 1, workfloor ID:215
 {worldX = 34, worldY = 31, posX = 120, posY = 36}, -- Muldraugh,  lumber mill 2, breakroom ID:216

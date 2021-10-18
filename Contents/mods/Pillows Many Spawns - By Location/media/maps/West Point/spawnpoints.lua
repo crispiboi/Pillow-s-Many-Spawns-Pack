@@ -14,9 +14,9 @@ function SpawnPoints()
 {worldX = 39, worldY = 23, posX = 260, posY = 11}, -- West Point,  post office ID:101
 {worldX = 39, worldY = 23, posX = 281, posY = 18, posZ = 1}, -- West Point,  apartment 1, above food market ID:102
 {worldX = 39, worldY = 23, posX = 273, posY = 13, posZ = 1}, -- West Point,  apartment 2, above hardware ID:103
-{worldX = 39, worldY = 23, posX = 223, posY = 28}, -- West Point,  restaurant ID:104
+{worldX = 39, worldY = 23, posX = 232, posY = 28}, -- West Point,  restaurant ID:104
 {worldX = 39, worldY = 23, posX = 242, posY = 17}, -- West Point,  restaraut, kitchen ID:105
-{worldX = 39, worldY = 23, posX = 242, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
+{worldX = 39, worldY = 23, posX = 249, posY = 14, posZ = 1}, -- West Point,  apartment 3, above restaurant ID:106
 {worldX = 39, worldY = 23, posX = 232, posY = 40}, -- West Point,  hardware store ID:107
 {worldX = 39, worldY = 23, posX = 200, posY = 48}, -- West Point,  police station ID:108
 {worldX = 39, worldY = 23, posX = 188, posY = 48}, -- West Point,  police station, jail ID:109
@@ -47,13 +47,13 @@ function SpawnPoints()
 {worldX = 39, worldY = 22, posX = 169, posY = 286}, -- West Point,  valu insurance ID:134
 {worldX = 39, worldY = 22, posX = 160, posY = 288}, -- West Point,  hairogenesis ID:135
 {worldX = 39, worldY = 22, posX = 161, posY = 273}, -- West Point,  clothing store ID:136
-{worldX = 39, worldY = 23, posX = 160, posY = 288, posZ = 1}, -- West Point,  apartment 5, above hairogenesis, nice ID:137
-{worldX = 39, worldY = 23, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
+{worldX = 39, worldY = 22, posX = 160, posY = 288, posZ = 1}, -- West Point,  apartment 5, above hairogenesis, nice ID:137
+{worldX = 39, worldY = 22, posX = 169, posY = 286, posZ = 1}, -- West Point,  apartment 6, above valu insurance ID:138
 {worldX = 39, worldY = 22, posX = 124, posY = 270}, -- West Point,  gas station  ID:139
 {worldX = 39, worldY = 22, posX = 273, posY = 213}, -- West Point,  spiffos ID:140
 {worldX = 39, worldY = 22, posX = 282, posY = 207}, -- West Point,  spiffos, kitchen ID:141
 {worldX = 40, worldY = 22, posX = 67, posY = 202}, -- West Point,  twiggy's ID:142
-{worldX = 40, worldY = 22, posX = 74, posY = 161}, -- West Point,  gun store, entrance ID:143
+{worldX = 40, worldY = 22, posX = 73, posY = 160}, -- West Point,  gun store, entrance ID:143
 {worldX = 39, worldY = 22, posX = 234, posY = 200}, -- West Point,  pharmahug, store ID:144
 {worldX = 39, worldY = 22, posX = 239, posY = 198}, -- West Point,  pharmahug, back room ID:145
 {worldX = 39, worldY = 22, posX = 233, posY = 187}, -- West Point,  laundromat ID:146
@@ -101,9 +101,7 @@ function SpawnPoints()
 {worldX = 37, worldY = 23, posX = 268, posY = 125}, -- West Point,  medium house 1 ID:188
 {worldX = 37, worldY = 23, posX = 210, posY = 36}, -- West Point,  medium house 2 ID:189
 {worldX = 40, worldY = 24, posX = 48, posY = 167}, -- West Point,  picnic area lobby ID:190
-{worldX = 37, worldY = 23, posX = 54, posY = 165} -- West Point,  picnic area kitchen ID:191
-
-
+{worldX = 40, worldY = 24, posX = 65, posY = 165}, -- West Point,  picnic area kitchen ID:191
 }, --end unemployed
 
     }
