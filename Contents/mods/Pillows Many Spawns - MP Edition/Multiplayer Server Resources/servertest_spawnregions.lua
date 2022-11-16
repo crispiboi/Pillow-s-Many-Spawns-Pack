@@ -1,0 +1,38 @@
+function SpawnRegions()
+	return {
+		{ name = "Muldraugh, KY", file = "media/maps/Muldraugh, KY/spawnpoints.lua" },
+		{ name = "West Point, KY", file = "media/maps/West Point, KY/spawnpoints.lua" },
+		{ name = "Rosewood, KY", file = "media/maps/Rosewood, KY/spawnpoints.lua" },
+		{ name = "Riverside, KY", file = "media/maps/Riverside, KY/spawnpoints.lua" },
+		-- Uncomment the lines below by removing the preceding "--" to enable random spawn options. 
+		-- The "Reduced" options are recommended for MP as a spawn house cannot be claimed as a safehouse
+--		{ name = "Many Spawns MP All Reduced", serverfile = "spawnpoints_MP_All_Reduced.lua" },
+--		{ name = "Many Spawns MP Knox County Reduced", serverfile = "spawnpoints_MP_Knox_Reduced.lua" },
+--		{ name = "Many Spawns All", serverfile = "spawnpoints_All.lua" },
+--		{ name = "Many Spawns Knox County", serverfile = "spawnpoints_All.lua" },
+--		{ name = "Random Spawn Casual", serverfile = "spawnpoints_Casual.lua" },
+--		{ name = "Random Spawn by Profession", serverfile = "spawnpoints_byProfession.lua" },
+--		{ name = "Random Spawns - Dixie", serverfile = "spawnpoints_Dixie.lua" },
+--		{ name = "Random Spawns - Ekron", serverfile = "spawnpoints_Ekron.lua" },
+--		{ name = "Random Spawns - Industrial Zone", serverfile = "spawnpoints_Industrial_Zone.lua" },
+--		{ name = "Random Spawns - March Ridge", serverfile = "spawnpoints_March_Ridge.lua" },
+--		{ name = "Random Spawns - McCoy Logging", serverfile = "spawnpoints_McCoy_Logging.lua" },
+--	    { name = "Random Spawns - Muldraugh", serverfile = "spawnpoints_Muldraugh.lua" },
+--	    { name = "Random Spawns - Riverside", serverfile = "spawnpoints_Riverside.lua" },
+--	    { name = "Random Spawns - Rosewood", serverfile = "spawnpoints_Rosewood.lua" },
+--	    { name = "Random Spawns - Valley Station", serverfile = "spawnpoints_Valley_Station.lua" },
+--	    { name = "Random Spawns - West Point", serverfile = "spawnpoints_West_Point.lua" },
+--	    { name = "Many Spawns - Lousville - All", serverfile = "spawnpoints_Lousville.lua" },
+--	    { name = "Many Spawns - Lousville - Audubon", serverfile = "spawnpoints_LouisvilleAudubon.lua" },
+--		{ name = "Many Spawns - Lousville - Evergreen", serverfile = "spawnpoints_LouisvilleEvergreen.lua" },
+--		{ name = "Many Spawns - Lousville - Old Louisville", serverfile = "spawnpoints_LouisvilleOld.lua" },
+--		{ name = "Many Spawns - Lousville - Phoenix Hill", serverfile = "spawnpoints_LouisvillePhoenixHill.lua" },
+--		{ name = "Many Spawns - Lousville - Central Louisville", serverfile = "spawnpoints_LousvilleCentral.lua" },
+--		{ name = "Random Spawns - Variations - Hitchhikers", serverfile = "spawnpoints_Hitchhikers.lua" },
+--	    { name = "Random Spawns - Variations - Patients", serverfile = "spawnpoints_Patients.lua" },
+--	    { name = "Random Spawns - Variations - Prisoners", serverfile = "spawnpoints_Prisoners.lua" },
+--	    { name = "Random Spawns - Variations - Schools", serverfile = "spawnpoints_Schools.lua" },
+--	    { name = "Random Spawns - Variations - Visitors", serverfile = "spawnpoints_Visitors.lua" },
+--	    { name = "Random Spawns - Variations - Wrecks", serverfile = "spawnpoints_Wrecks.lua" },
+	}
+end
