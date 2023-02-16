@@ -260,7 +260,6 @@ function SpawnPoints()
 {worldX = 35, worldY = 34, posX = 114, posY = 166}, -- Muldraugh,  book store ID:275
 {worldX = 35, worldY = 34, posX = 112, posY = 175}, -- Muldraugh,  clothes store ID:276
 {worldX = 35, worldY = 34, posX = 136, posY = 214}, -- Muldraugh,  police station ID:277
-{worldX = 35, worldY = 34, posX = 134, posY = 208}, -- Muldraugh,  police station, jail ID:278
 {worldX = 35, worldY = 35, posX = 124, posY = 28}, -- Muldraugh,  restaurant ID:279
 {worldX = 35, worldY = 35, posX = 125, posY = 34}, -- Muldraugh,  restaurant, kitchen ID:280
 {worldX = 35, worldY = 35, posX = 122, posY = 61}, -- Muldraugh,  diner ID:281
@@ -412,7 +411,6 @@ function SpawnPoints()
 {worldX = 26, worldY = 38, posX = 277, posY = 264}, -- Rosewood, courthouse lobby ID:427
 {worldX = 26, worldY = 38, posX = 255, posY = 270}, -- Rosewood, courthouse security  ID:428
 {worldX = 26, worldY = 39, posX = 274, posY = 41}, -- Rosewood, police station ID:429
-{worldX = 26, worldY = 39, posX = 251, posY = 48}, -- Rosewood, police station, jail ID:430
 {worldX = 26, worldY = 39, posX = 258, posY = 51}, -- Rosewood, police station, security room ID:431
 {worldX = 27, worldY = 37, posX = 80, posY = 169}, -- Rosewood, gas station ID:432
 {worldX = 27, worldY = 37, posX = 52, posY = 238}, -- Rosewood, auto shop lobby ID:433
@@ -454,12 +452,6 @@ function SpawnPoints()
 {worldX = 25, worldY = 39, posX = 147, posY = 153}, -- Rosewood,  kitchen storage  ID:469
 {worldX = 25, worldY = 39, posX = 187, posY = 183, posZ = 1}, -- Rosewood,  2nd floor security office ID:470
 {worldX = 25, worldY = 39, posX = 195, posY = 197, posZ = 1}, -- Rosewood,  guard break room ID:471
-{worldX = 25, worldY = 39, posX = 183, posY = 130}, -- Rosewood,  cell 1, north block ID:472
-{worldX = 25, worldY = 39, posX = 196, posY = 127}, -- Rosewood,  cell 2, north block ID:473
-{worldX = 25, worldY = 39, posX = 187, posY = 147}, -- Rosewood,  north block floor ID:474
-{worldX = 25, worldY = 39, posX = 181, posY = 240}, -- Rosewood,  cell 3, south block ID:475
-{worldX = 25, worldY = 39, posX = 196, posY = 225}, -- Rosewood,  cell 4, south block ID:476
-{worldX = 25, worldY = 39, posX = 188, posY = 215}, -- Rosewood,  south block floor ID:477
 {worldX = 24, worldY = 27, posX = 103, posY = 97}, -- Ekron,  gas station ID:478
 {worldX = 24, worldY = 27, posX = 100, posY = 96, posZ = 1 }, -- Ekron,  apartment above gas station ID:479
 {worldX = 24, worldY = 27, posX = 39, posY = 102}, -- Ekron,  burger joint ID:480
@@ -475,7 +467,6 @@ function SpawnPoints()
 {worldX = 24, worldY = 27, posX = 56, posY = 229}, -- Ekron,  farming and rural supply store ID:490
 {worldX = 24, worldY = 27, posX = 94, posY = 234}, -- Ekron,  office building  ID:491
 {worldX = 24, worldY = 27, posX = 54, posY = 283}, -- Ekron,  police station ID:492
-{worldX = 24, worldY = 27, posX = 53, posY = 278}, -- Ekron,  police station, jail ID:493
 {worldX = 24, worldY = 27, posX = 93, posY = 290}, -- Ekron,  dr office, lobby ID:494
 {worldX = 24, worldY = 27, posX = 96, posY = 292}, -- Ekron,  dr office, exam room ID:495
 {worldX = 24, worldY = 28, posX = 57, posY = 32}, -- Ekron,  book store ID:496
@@ -545,7 +536,6 @@ function SpawnPoints()
 {worldX = 20, worldY = 17, posX = 118, posY = 206}, -- Riverside,  spiffos ID:560
 {worldX = 20, worldY = 17, posX = 131, posY = 212}, -- Riverside,  spiffos, kitchen ID:561
 {worldX = 20, worldY = 17, posX = 81, posY = 164}, -- Riverside,  police station lobby ID:562
-{worldX = 20, worldY = 17, posX = 82, posY = 158}, -- Riverside,  police station, jail ID:563
 {worldX = 20, worldY = 17, posX = 59, posY = 205}, -- Riverside,  fossoil ID:564
 {worldX = 19, worldY = 17, posX = 256, posY = 165}, -- Riverside,  burger joint ID:565
 {worldX = 19, worldY = 17, posX = 255, posY = 162}, -- Riverside,  burger joint, kitchen ID:566
