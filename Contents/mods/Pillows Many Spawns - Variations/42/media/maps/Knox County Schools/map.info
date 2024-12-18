@@ -1,7 +1,8 @@
-title=Many Spawns Variations - Help! My kid is a zombie!
+title=media/lua/shared/Translate/EN/Knox County Schools/title.txt
 lots=Muldraugh, KY
-description=You arrived too late to the school to find your kid. The apocalypse happened.
-description= 
-description=This will spawn you in one of the schools around Knox County.
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Knox County Schools/description.txt
+fixed2x=true
+zoomX=9000
+zoomY=9000
+zoomS=2
+demoVideo=RandomOrAnywhere.bik

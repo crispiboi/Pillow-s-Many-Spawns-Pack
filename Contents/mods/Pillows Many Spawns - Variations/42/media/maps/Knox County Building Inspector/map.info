@@ -1,7 +1,8 @@
-title=Many Spawns Variations - Knox County Building Inspector
+title=media/lua/shared/Translate/EN/nox County Building Inspector/title.txt
 lots=Muldraugh, KY
-description=You just got done counting nails on this floor and it turns out the apocalypse happened in the mean time. This scenario starts you in a building on the 3rd floor and up.
-description= 
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/nox County Building Inspector/description.txt
+fixed2x=true
+zoomX=9000
+zoomY=9000
+zoomS=2
+demoVideo=RandomOrAnywhere.bik

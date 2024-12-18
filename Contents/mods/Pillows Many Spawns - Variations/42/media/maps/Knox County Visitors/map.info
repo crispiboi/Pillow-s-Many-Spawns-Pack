@@ -1,7 +1,8 @@
-title=Many Spawns Variations - Visitor to Knox County
+title=media/lua/shared/Translate/EN/Knox County Visitors/title.txt
 lots=Muldraugh, KY
-description=You are likely staying in a hotel, or dining somewhere when the zombies rise. 
-description= 
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Knox County Visitors/description.txt
+fixed2x=true
+zoomX=9000
+zoomY=9000
+zoomS=2
+demoVideo=RandomOrAnywhere.bik

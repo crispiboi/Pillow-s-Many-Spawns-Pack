@@ -1,2 +1,2 @@
-<CENTRE> <SIZE:medium> RANDOM SPAWNS - KNOX COUNTY PRISONERS<LINE> <LINE>
+<CENTRE> <SIZE:medium>KNOX COUNTY PRISONERS<LINE> <LINE>
 <LEFT> <SIZE:small> If you chose Police or Security, you will spawn at the prison complex but not as an inmate.

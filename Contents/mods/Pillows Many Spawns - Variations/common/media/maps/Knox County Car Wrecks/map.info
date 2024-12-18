@@ -1,6 +1,6 @@
-title=media/lua/shared/Translate/EN/Knox County Wrecks/title.txt
+title=media/lua/shared/Translate/EN/Knox County Car Wrecks/title.txt
 lots=Muldraugh, KY
-description=media/lua/shared/Translate/EN/Knox County Wrecks/description.txt
+description=media/lua/shared/Translate/EN/Knox County Car Wrecks/description.txt
 fixed2x=true
 zoomX=9000
 zoomY=9000

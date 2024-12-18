@@ -1,7 +1,8 @@
-title=Many Spawns Variations - Knox County Hitchhikers
+title=media/lua/shared/Translate/EN/Knox County Hitchhikers/title.txt
 lots=Muldraugh, KY
-description=You are likely trying to get from point a to point b when the zombie crisis boils over. Starts are mostly outdoors.
-description= 
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Knox County Hitchhikers/description.txt
+fixed2x=true
+zoomX=9000
+zoomY=9000
+zoomS=2
+demoVideo=RandomOrAnywhere.bik
