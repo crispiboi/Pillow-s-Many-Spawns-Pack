@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - RIVERSIDE<LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in the town and suburbs of Riverside. Excludes the many farms surrounding town. There are approximately 90 locations.

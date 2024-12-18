@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - KNOX COUNTY SCHOOLS<LINE> <LINE>
+<LEFT> <SIZE:small>You arrived too late to the school to find your kid. The apocalypse happened.This will spawn you in one of the schools around Knox County.

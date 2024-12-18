@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - RANDOM KNOX COUNTY<LINE> <LINE>
+<LEFT> <SIZE:small> 906 random spawn points hand picked across the entire map excluding Louisville. Implemented for all professions.

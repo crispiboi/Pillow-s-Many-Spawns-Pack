@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - MULDRAUGH INDUSTRIAL ZONE<LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in the industrial zone to the south west of Muldraugh.

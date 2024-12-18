@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - VALLEY STATION<LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in a location in Valley Station,to the north east of West Point, and south of Louisville. There are approximately 100 locations.

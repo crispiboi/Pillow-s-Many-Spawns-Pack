@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - WEST POINT<LINE> <LINE>
+<LEFT> <SIZE:small>Spawn in the suburb or downtown of Westpoint. Excludes any farms in proximity. There are approximately 100 locations.

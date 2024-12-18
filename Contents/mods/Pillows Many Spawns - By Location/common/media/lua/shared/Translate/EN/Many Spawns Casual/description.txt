@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - KNOX COUNTY CASUAL START <LINE> <LINE>
+<LEFT> <SIZE:small> 819 random spawn points hand picked across the entire map excluding Louisville. No jails, nor isolated areas. Implemented for all professions.
