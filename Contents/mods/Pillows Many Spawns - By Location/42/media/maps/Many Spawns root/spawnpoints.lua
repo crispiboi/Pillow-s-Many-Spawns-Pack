@@ -986,7 +986,7 @@ function SpawnPoints()
 {worldX = 26, worldY = 38, posX = 249, posY = 156}, -- Rosewood, Rosewood, vacant house ID:904
 {worldX = 38, worldY = 22, posX = 222, posY = 281}, -- West Point, Westpointe, vacant house ID:905
 {worldX = 36, worldY = 33, posX = 111, posY = 120}, -- Muldraugh, muldraugh, vacant house ID:906
-{worldX = 39, worldY = 32, posX = 269, posY = 289, posZ =1} -- West Point,Nelolis's Thinking spot ID:907
+{worldX = 39, worldY = 32, posX = 269, posY = 289}, -- West Point,Nelolis's Thinking spot ID:907
 }, --end unemployed
 
     }

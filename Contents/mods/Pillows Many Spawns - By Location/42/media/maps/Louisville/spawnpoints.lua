@@ -841,7 +841,7 @@ function SpawnPoints()
 {worldX = 45, worldY = 9, posX = 194, posY = 99}, --evergreen hill community center lobby
 {worldX = 45, worldY = 9, posX = 203, posY = 110, posZ = 1}, --evergreen hill community center break room
 {worldX = 45, worldY = 8, posX = 177, posY = 140}, --evergreen hill church, hallway
-{worldX = 42, worldY = 8, posX = 181, posY = 155}, --evergreen hill police station
+{worldX = 44, worldY = 10, posX = 15, posY = 92}, --evergreen hill police station
 {worldX = 45, worldY = 8, posX = 280, posY = 140}, --evergreen hill food mart
 {worldX = 47, worldY = 9, posX = 38, posY = 183}, --East LV Suburb 1, small house 1
 {worldX = 47, worldY = 9, posX = 19, posY = 270}, --East LV Suburb 1, small house 2

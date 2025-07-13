@@ -806,7 +806,7 @@ function SpawnPoints()
 {worldX = 26, worldY = 38, posX = 249, posY = 156}, -- Rosewood, vacant house ID:904
 {worldX = 38, worldY = 22, posX = 222, posY = 281}, -- Westpointe, vacant house ID:905
 {worldX = 36, worldY = 33, posX = 111, posY = 120}, -- muldraugh, vacant house ID:906
-{worldX = 39, worldY = 32, posX = 269, posY = 289, posZ = 1}, --Nelolis's Thinking spot ID:907
+{worldX = 39, worldY = 32, posX = 269, posY = 289}, --Nelolis's Thinking spot ID:907
 {worldX = 42, worldY = 14, posX = 126, posY = 193}, --South Louisville Railyard 1 ID:908
 {worldX = 42, worldY = 14, posX = 126, posY = 190}, --South Louisville Railyard 2 ID:909
 {worldX = 42, worldY = 14, posX = 56, posY = 170}, --South Louisville Railyard 3 ID:910
@@ -1647,7 +1647,7 @@ function SpawnPoints()
 {worldX = 45, worldY = 9, posX = 194, posY = 99}, --evergreen hill community center lobby ID:1745
 {worldX = 45, worldY = 9, posX = 203, posY = 110, posZ = 1}, --evergreen hill community center break room ID:1746
 {worldX = 45, worldY = 8, posX = 177, posY = 140}, --evergreen hill church, hallway ID:1747
-{worldX = 42, worldY = 8, posX = 181, posY = 155}, --evergreen hill police station ID:1748
+{worldX = 44, worldY = 10, posX = 15, posY = 92}, --evergreen hill police station ID:1748
 {worldX = 45, worldY = 8, posX = 280, posY = 140}, --evergreen hill food mart ID:1749
 {worldX = 47, worldY = 9, posX = 38, posY = 183}, --East LV Suburb 1, small house 1 ID:1750
 {worldX = 47, worldY = 9, posX = 19, posY = 270}, --East LV Suburb 1, small house 2 ID:1751
