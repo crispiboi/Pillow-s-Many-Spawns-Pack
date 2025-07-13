@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - ANYWHERE BUT ROSEWOOD <LINE> <LINE>
+<LEFT> <SIZE:small>Spawn in a location anywhere except Rosewood and nearby areas.

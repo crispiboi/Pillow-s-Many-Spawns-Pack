@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - ANYWHERE BUT VALLEY STATION <LINE> <LINE>
+<LEFT> <SIZE:small>Spawn in a location anywhere except Valley Station.
