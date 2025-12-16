@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - RURAL RETREATS <LINE> <LINE>
+<LEFT> <SIZE:small> Remote starts: 50 low-density cells across the map, favoring farms/rural remoteness over towns. <LINE> <LINE>

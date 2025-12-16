@@ -1,2 +1,2 @@
 <CENTRE> <SIZE:medium> RANDOM SPAWNS - CASUAL <LINE> <LINE>
-<LEFT> <SIZE:small> 2,580 spawn points flagged Casual. No jails or isolated areas. Implemented for all professions. <LINE> <LINE>
+<LEFT> <SIZE:small> 2,580 spawn points. No difficult points like jails or isolated areas. Implemented for all professions. <LINE> <LINE>

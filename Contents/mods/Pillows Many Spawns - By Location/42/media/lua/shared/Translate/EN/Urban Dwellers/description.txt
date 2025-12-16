@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - URBAN DWELLERS <LINE> <LINE>
+<LEFT> <SIZE:small> Dense downtown starts: ~5 hotspots per city (55 total), excluding Dixie, Echo Creek, Isolated Areas, and Valley Station. Balanced so Louisville does not dominate. <LINE> <LINE>

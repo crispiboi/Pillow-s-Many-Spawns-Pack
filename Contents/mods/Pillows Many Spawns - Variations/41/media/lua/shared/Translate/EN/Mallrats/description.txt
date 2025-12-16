@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS VARIATIONS - MALLRATS <LINE> <LINE>
+<LEFT> <SIZE:small> Mall/strip-mall hotspots (~5 per cell, 202 total) including Grand Ohio and Valley Station; focused on dense shopping clusters. <LINE> <LINE>

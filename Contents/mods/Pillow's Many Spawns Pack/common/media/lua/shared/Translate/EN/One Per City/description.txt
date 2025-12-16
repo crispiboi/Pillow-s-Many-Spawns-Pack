@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - ONE PER CITY <LINE> <LINE>
+<LEFT> <SIZE:small> One spawn hotspot per major area (15 total), excluding Isolated Areas, for an even city-start spread. <LINE> <LINE>

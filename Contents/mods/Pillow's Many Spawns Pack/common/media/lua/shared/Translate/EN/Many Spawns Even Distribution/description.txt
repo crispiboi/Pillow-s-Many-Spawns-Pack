@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - EVEN DISTRIBUTION <LINE> <LINE>
+<LEFT> <SIZE:small> One spawn per 300x300 world cell (365 total) across the map. Implemented for all professions. <LINE> <LINE>
