@@ -1,8 +1,7 @@
 description=Pillow's Random Spawns MP Edition
-id=1911132112/ManySpawnsMP
+id=ManySpawnsMP
 name=Pillow's Random Spawns MP Edition
 poster=poster.png
 description=Multiplayer version sampling roughly 12 percent per Area (min 1). All Reduced: ~322 locations across Knox County + Louisville. Knox Reduced: ~142 locations excluding Louisville. Spawn locations cannot be safe houses.
-modversion=42.0-1
-pzversion=42
-versionMin=41.60
+modversion=1
+pzversion=41.34

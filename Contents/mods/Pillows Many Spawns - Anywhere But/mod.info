@@ -1,11 +1,7 @@
 description=Pillow's Random Spawns Anywhere but
-id=1911132112/ManySpawnsAnywhereBut
+id=ManySpawnsAnywhereBut
 name=Pillow's Random Spawns Anywhere But
 poster=poster.png
 description=Tired of a certain town? Exclude it completely with this set of spawns.
-modversion=42.0-1
-pzversion=42
-versionMin=41.60
-incompatible=
-author= pillow
-modurl=https://github.com/crispiboi/Pillow-s-Many-Spawns-Pack
+modversion=1
+pzversion=41.34

@@ -1,8 +1,8 @@
-description=Pillow's Random Spawns Anywhere But
-id=1911132112/ManySpawnsAnywhereBut
+description=Pillow's Random Spawns Anywhere but
+id=1911132112
+ManySpawnsAnywhereBut
 name=Pillow's Random Spawns Anywhere But
 poster=poster.png
 description=Tired of a certain town? Exclude it completely with this set of spawns.
-modversion=42.0-1
-pzversion=42
-versionMin=41.60
+modversion=1
+pzversion=41.34
