@@ -1,7 +1,11 @@
-title=Many Spawns By Location - Rosewood
+title=media/lua/shared/Translate/EN/Rosewood/title.txt
 lots=Muldraugh, KY
-description=Spawn in the suburb or downtown of Rosewood. Excludes prison and any farms in proximity.
-description=There are approximately 60 locations.
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Rosewood/description.txt
+description=
+description=
+description=
+description=
+zoomX=8137
+zoomY=11570
+zoomS=14.5
+demoVideo=../RandomOrAnywhere.bik

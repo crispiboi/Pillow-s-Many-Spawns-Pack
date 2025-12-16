@@ -1,0 +1,3 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - IRVINGTON <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in Irvington. There are approximately 97 locations. <LINE> <LINE>
+

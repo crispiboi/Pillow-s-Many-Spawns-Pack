@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/Dixie/title.txt
+title=Random Spawns By Location - Dixie
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Dixie/description.txt
+description=Spawn in Dixie. There are approximately 25 locations.
+description=
+description=
+description=
+description=
 zoomX=11609
 zoomY=8735
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

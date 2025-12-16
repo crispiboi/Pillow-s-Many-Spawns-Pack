@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/Rosewood/title.txt
+title=Random Spawns By Location - Rosewood
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Rosewood/description.txt
+description=Spawn in Rosewood. There are approximately 64 locations.
+description=
+description=
+description=
+description=
 zoomX=8099
 zoomY=11569
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

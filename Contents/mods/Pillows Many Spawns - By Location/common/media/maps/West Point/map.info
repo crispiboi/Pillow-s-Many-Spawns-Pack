@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/West Point/title.txt
+title=Random Spawns By Location - West Point
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/West Point/description.txt
+description=Spawn in West Point. There are approximately 101 locations.
+description=
+description=
+description=
+description=
 zoomX=11840
 zoomY=6888
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

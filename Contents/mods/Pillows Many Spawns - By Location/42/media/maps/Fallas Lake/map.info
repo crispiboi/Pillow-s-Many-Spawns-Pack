@@ -1,8 +1,7 @@
-title=media/lua/shared/Translate/EN/Fallas Lake/title.txt
+title=Random Spawns By Location - Fallas Lake
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Fallas Lake/description.txt
-zoomX=7216
-zoomY=8291
+description=Spawn in Fallas Lake. There are approximately 54 locations.
+zoomX=7228
+zoomY=8591
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

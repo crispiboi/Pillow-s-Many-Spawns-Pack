@@ -1,0 +1,11 @@
+description=Pillow's Random Spawns Louisville by Neighborhood
+id=1911132112/ManySpawnsLouisvilleByNeighborhood
+name=Pillow's Random Spawns Louisville By Neighborhood
+poster=poster.png
+description=Spawn Points separated by neighborhood.
+modversion=42.0-1
+pzversion=42
+versionMin=41.60
+incompatible=
+author= pillow
+modurl=https://github.com/crispiboi/Pillow-s-Many-Spawns-Pack

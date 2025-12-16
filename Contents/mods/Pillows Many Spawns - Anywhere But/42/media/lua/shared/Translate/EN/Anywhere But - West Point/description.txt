@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - ANYWHERE BUT - WEST POINT <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn anywhere except West Point. There are approximately 2568 locations. <LINE> <LINE>

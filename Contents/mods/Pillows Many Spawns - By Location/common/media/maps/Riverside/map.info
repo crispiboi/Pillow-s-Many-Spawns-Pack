@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/Riverside/title.txt
+title=Random Spawns By Location - Riverside
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Riverside/description.txt
+description=Spawn in Riverside. There are approximately 87 locations.
+description=
+description=
+description=
+description=
 zoomX=6599
 zoomY=5236
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

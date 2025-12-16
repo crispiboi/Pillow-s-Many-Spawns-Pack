@@ -1,7 +1,11 @@
-title=Many Spawns By Location - West Point
+title=media/lua/shared/Translate/EN/West Point/title.txt
 lots=Muldraugh, KY
-description=Spawn in the suburb or downtown of Westpoint. Excludes any farms in proximity.
-description=There are approximately 100 locations.
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/West Point/description.txt
+description=
+description=
+description=
+description=
+zoomX=11807
+zoomY=6905
+zoomS=14.5
+demoVideo=../RandomOrAnywhere.bik

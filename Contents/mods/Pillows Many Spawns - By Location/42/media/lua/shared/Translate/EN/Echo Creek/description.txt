@@ -1,0 +1,3 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - ECHO CREEK <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in Echo Creek. There are approximately 40 locations. <LINE> <LINE>
+

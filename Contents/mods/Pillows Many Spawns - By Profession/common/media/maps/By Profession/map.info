@@ -1,8 +1,8 @@
-title=media/lua/shared/Translate/EN/By Professionl/title.txt
+title=media/lua/shared/Translate/EN/By Profession/title.txt
 lots=Muldraugh, KY
 description=media/lua/shared/Translate/EN/By Profession/description.txt
 fixed2x=true
 zoomX=9000
 zoomY=9000
 zoomS=2
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

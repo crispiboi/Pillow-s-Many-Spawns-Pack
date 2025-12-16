@@ -1,6 +1,11 @@
-title=Many Spawns By Location - Dixie
+title=media/lua/shared/Translate/EN/Dixie/title.txt
 lots=Muldraugh, KY
-description=Spawn in the town of Dixie, the trailer park north east of Muldraugh. Includes some spawn points at the crossroads.
-description=There are approximately 30 locations.
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Dixie/description.txt
+description=
+description=
+description=
+description=
+zoomX=11655
+zoomY=8759
+zoomS=14.5
+demoVideo=../RandomOrAnywhere.bik

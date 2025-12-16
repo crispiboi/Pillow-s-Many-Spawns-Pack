@@ -1,0 +1,3 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - EKRON <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in Ekron. There are approximately 45 locations. <LINE> <LINE>
+

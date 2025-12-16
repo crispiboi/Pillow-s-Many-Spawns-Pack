@@ -1,7 +1,11 @@
-title=Many Spawns By Location - March Ridge
+title=media/lua/shared/Translate/EN/March Ridge/title.txt
 lots=Muldraugh, KY
-description=Spawn in March Ridge!
-description=There are approximately 70 locations to spawn in.
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/March Ridge/description.txt
+description=
+description=
+description=
+description=
+zoomX=10112
+zoomY=12758
+zoomS=14.5
+demoVideo=../RandomOrAnywhere.bik

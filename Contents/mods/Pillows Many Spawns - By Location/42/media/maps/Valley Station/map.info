@@ -1,8 +1,11 @@
 title=media/lua/shared/Translate/EN/Valley Station/title.txt
 lots=Muldraugh, KY
-fixed2x=true
 description=media/lua/shared/Translate/EN/Valley Station/description.txt
-zoomX=12669
-zoomY=5517
+description=
+description=
+description=
+description=
+zoomX=13293
+zoomY=5416
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

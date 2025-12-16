@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - FULL <LINE> <LINE>
+<LEFT> <SIZE:small> 2,688 random spawn points across the entire map. Implemented for all professions. <LINE> <LINE>

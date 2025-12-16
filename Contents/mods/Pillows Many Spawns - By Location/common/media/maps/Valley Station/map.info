@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/Valley Station/title.txt
+title=Random Spawns By Location - Valley Station
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Valley Station/description.txt
+description=Spawn in Valley Station. There are approximately 98 locations.
+description=
+description=
+description=
+description=
 zoomX=12669
 zoomY=5517
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

@@ -1,0 +1,3 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - ISOLATED AREAS <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in Isolated Areas. There are approximately 74 locations. <LINE> <LINE>
+

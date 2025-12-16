@@ -1,0 +1,3 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS BY LOCATION - BRANDENBURG <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn in Brandenburg. There are approximately 81 locations. <LINE> <LINE>
+

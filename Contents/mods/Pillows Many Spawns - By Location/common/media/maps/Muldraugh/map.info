@@ -1,8 +1,11 @@
-title=media/lua/shared/Translate/EN/Muldraugh/title.txt
+title=Random Spawns By Location - Muldraugh
 lots=Muldraugh, KY
-fixed2x=true
-description=media/lua/shared/Translate/EN/Muldraugh/description.txt
+description=Spawn in Muldraugh. There are approximately 169 locations.
+description=
+description=
+description=
+description=
 zoomX=10578
 zoomY=9728
 zoomS=14.5
-demoVideo=RandomOrAnywhere.bik
+demoVideo=../RandomOrAnywhere.bik

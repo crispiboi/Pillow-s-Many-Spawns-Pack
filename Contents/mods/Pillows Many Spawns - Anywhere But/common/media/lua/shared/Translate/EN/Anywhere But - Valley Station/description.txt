@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> RANDOM SPAWNS - ANYWHERE BUT - VALLEY STATION <LINE> <LINE>
+<LEFT> <SIZE:small> Spawn anywhere except Valley Station. There are approximately 2590 locations. <LINE> <LINE>

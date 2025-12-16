@@ -1,7 +1,11 @@
-title=Many Spawns By Location - Valley Station
+title=media/lua/shared/Translate/EN/Valley Station/title.txt
 lots=Muldraugh, KY
-description=Spawn in a location in Valley Station, also known as the Mall area, to the north east of West Point.
-description=There are approximately 100 locations.
-description= 
-description= 
-description= 
+description=media/lua/shared/Translate/EN/Valley Station/description.txt
+description=
+description=
+description=
+description=
+zoomX=13296
+zoomY=5421
+zoomS=14.5
+demoVideo=../RandomOrAnywhere.bik
